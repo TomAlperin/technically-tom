@@ -1,0 +1,36 @@
+This week one of the largest breaches of iOS software was disclosed. The breach came about due to a hacked version of Xcode. Dubbed XcodeGhost, the exploit uses a hacked version of Xcode to install additional code which can be used for password phishing and limited  collection of other data on the device.
+
+<img class="float-start p-3 ps-0" width="30%" src="/assets/posts/technicalities/the-walled-garden-and-security/sick-apple.png" alt="Sick Apple">
+
+More information and a list of compromised apps is available here. This could have been much more serious had the perpetrators figured out how to do something even more threatening to the users privacy, such as controlling cameras. While I do think that this breach is quite serious and has lowered my trust a bit with Apple’s software vetting and distribution, the alternative of relying on third party virus scanning software distresses me even more. For virus scanning software to work effectively, it would probably need to have access to all the “sandboxes” that software runs within which could actually lower security.
+
+While Apple has yet to succumb to as serious a breach as Windows or Android has experienced, they are going to have to step up their game if they want to maintain the trust of their users. What I see as a major advantage to iOS is the trading of greater security for the loss of some not very important functionality and customization. If the limitations fail to provide additional security, then it begins to seem pointless to have the limitations no matter how trivial.
+
+We do not want to start down the path of third party virus software. Users should not be required to secure their devices in this way just like you are not required to pay for seat belts separately when you purchase a car.
+
+Years ago, the one time I tried to run antivirus, I ended up with a locked up computer due to an issue with faxing and the virus detection software. The computer needed to be booted from a different system disk to fix the problem. It seemed ironic to me how the software had behaved just like the type of software that it had promised to protect me from. Today, I will run scans but I do not run anything that runs in the background on my Macs.
+
+I have realized something over the years that leads to bad software being hard to detect. Software can behave poorly. It can be used for unethical or illegal purposes, but a program that erases an entire drive isn’t necessarily malware if that is the desired result.
+
+To continue reading and get any value and understanding, you need to be familiar with the following:
+
+- **Virus:** Self replicating program that can copy itself without any user interaction.
+- **Trojan:** Similar to a virus but needs to trick the user into installing software.
+- **Malware:** Any software that intentionally behaves in ways not agreed upon by the user, stealing resources for illegal and/or unethical purposes.
+
+The companies that sell virus detection software like to throw the word Virus around since it seems to elicit the most fear, but programs that actually require user interaction are more common. Antivirus software is designed to look for all types of malware. Most virus software looks for a unique signature matching the offending software. This works great to block a few bad programs, but the programs might only need  few modifications to get past the existing signatures. Eventually there are so many variations that the scan slows down your computer searching for every variation, with a few false positives. This is still great for companies that make their money off of selling updated virus signature databases, but not good for end users.
+
+What happens with an “app store” is that programs get checked to see if they match an approved signature proving that not only have you purchased the program but that the software has at least gone through some approval process to check for malware. It’s not impossible for something to slip by, but the signature can be revoked if something does. When you install or launch a program, one program is being checked to see if it matches one signature. Apple is not the only doing something like this to distribute software. Linux systems have software repositories that use keys and encryption to ensure software is not compromised. Most Linux source code is widely available where it can be studied for flaws or weaknesses.
+
+Now imagine you have a building that must be secured against malicious individuals. The way a virus detection program works would be like running a check on someone to see if they had a police record or maybe if any of their close relatives do. This is not what you would consider “high security.”
+
+The way Apples App Store works would be like if you did much more thorough checking. Their would be weapons searches, detailed background checks and they would have to wear a collar while in the building that would instantly blow their head off if they tried anything “phishy.”
+
+There are still arguments circulating why Apple device are just as much at risk or potentially more at risk than Windows computers even though there have been far more successful attacks on Windows computers. Apple’s lower market share has been dragged out as an excuse for years as an explanation for why it has not been targeted, however as the Mac and iOS devices have grown in popularity, they still maintain a lower risk of compromise, in spite of this most recent incident.
+
+There is a negative to a curated software experience. Third party developers are not give access to private frameworks that would allow them to provide more functionality in their apps. Many software features have had to wait for Apple to give the go ahead first. Apple released the iPhone so locked down, you couldn’t even install third party programs at first and have been slowly providing developers with more functionality. This makes a lot of sense to me considering the differences between a desktop/laptop or phone.
+
+Most people’s phones stay with them all day. When they are not at home or work wi-fi, they do not have the benefit of being behind a routers firewall. They can be “pinged” from the internet. The built in cameras do not have powered on lights and do not have the benefit of a case that closes to cover them. They have microphones as well. They tend to get charged over night on night stands next to beds. Security on smart phones has to be the number one concern. Virus detection programs that are limited to searching for known exploits will never be the ultimate solution. If we want our devices to remain secure and private more creative methods for blocking the bad guys need to be considered.
+
+The problem with malware is that it’s more like a cancer than a virus. Malware software can be difficult to detect since it’s not necessarily doing anything that a normal program might do. You send emails every day, but you don’t want a hidden program emailing millions of people in the background, ads for cheap medications. You might want to set up your own bit coin miner, but you don’t want someone setting one up for themselves on your devices. It’s a lot harder you would think to identify bad software. If we are ever going to get control of this problem it’s going to have to be through identifying the good players and not just the bad players.
+

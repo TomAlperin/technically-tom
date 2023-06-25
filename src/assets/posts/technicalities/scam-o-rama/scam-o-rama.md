@@ -1,0 +1,20 @@
+The majority of us are happy with our limited computer knowledge. If we can get to our e-mail and check our Facebook page, maybe buy a sweet set of earphones off of Amazon, we’re happy. Read on and listen to hear how the typical phone scam sounds.
+
+I have received several similar calls to this one. The calls typically will inform me that my “Windows Computer” has been compromised and that they somehow can see this from wherever they are which judging by the accent, is somewhere in India. The problem with this is that I don’t own any Windows computers.
+
+<audio class="w-100" preload="none" controls="controls">
+  <source type="audio/mpeg" src="/assets/posts/technicalities/scam-o-rama/windows-phone-scam.mp3">
+  <a href="/assets/posts/technicalities/scam-o-rama/windows-phone-scam.mp3">Scam Call Recording</a>
+</audio>
+
+The average person knows nothing about how a transistor works and less about the inner workings of any computer hardware, and while it’s not necessary for most of us to know such things, some of us are not even well equipped to recognize scams like the one recorded here. What the caller is trying to accomplish is to get me to allow him to connect to my computer using web based remote desktop software. Accessing my computer this way would give him access to private information on my computer and possibly allow him to install malware.
+
+To some listening, this conversation is going to sound ridiculous right from the start. If you are one of those individuals where calls like this do not set off immediate alarms, then it’s time to brush up on the basics.
+
+I tend to view cold calls as an inappropriate way to do business. Calling me on the phone without a prior business relationship immediately disqualifies you from ever doing business with me, even if you have a legitimate business. I hate liars, and when you call me at dinner time claiming that you had no way of knowing I might be eating dinner, it’s pretty clear evidence that you’re a liar. When you try to initiate business relationships over the phone, even with a legitimate business, you are putting yourself and your business on the same level as the shady sleazebag in this recording. There are better ways to conduct business than unsolicited, unwelcome, phone calls or emails.
+
+1. Never accept any communication as being legitimate that fails to provide detailed, verifiable information about you or your computer. When a legitimate company tries to contact you, they will know your name. Beware emails addressed to “Dear Sir or Madam.” Legitimate companies know how to spell and use grammar correctly.
+2. Beware communications that express urgency that seems unfounded. It is a common practice by scammers to get you to react in haste. Nobody is going to bar you from service to anything for not responding “immediately.” Legitimate services might temporarily lock your account due to some outstanding issue, but permanently trashing your account? That’s just not going to happen.
+3. Never open secure websites by clicking on a link in an email. Sites with secure logins should always be opened directly by your browser. It’s just too easy for scammers to craft links that do not go to the correct website. Additionally, you need to pay attention to the lock symbol that usually appears in the address bar of browsers. The lock indicates that your browser has verified the site’s identity.
+4. Next time someone tries to sell you something over the phone, why not have some fun with it. See how long it takes to get them to lie. Ask them a bunch of questions they should know if what they are telling you is true. By no means do any business with one of these individuals.
+I urge anyone reading this also not to accept shady business practices like this. It’s not going to stop unless it becomes entirely unprofitable.

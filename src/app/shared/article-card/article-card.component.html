@@ -1,0 +1,15 @@
+<article>
+  <div class="post-thumb">      
+    <a [routerLink]="article.url">
+      <div class="thumb-container">
+        <img [attr.src]="article.thumb" />
+      </div>
+      <h2>{{article.title}}</h2>
+    </a>
+  </div>
+  <span class="article-date" [ngClass]="{ dark: [true, ''].includes(dark)}">{{article.date | date:'MMM d yyyy | hh:mm a'}}</span>
+  <p class="excerpt" [ngClass]="{ dark: [true, ''].includes(dark)}">
+    {{ article.excerpt}}...
+  </p>
+  <p class="read-more"><a [routerLink]="article.url" class="read-article" [ngClass]="{ dark: [true, ''].includes(dark)}">Read More</a></p>
+</article>

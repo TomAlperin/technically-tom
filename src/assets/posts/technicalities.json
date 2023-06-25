@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Scam-O-Rama",
+    "thumb": "/assets/posts/technicalities/scam-o-rama/croc.jpg",
+    "date": "2015-09-22T18:46",
+    "excerpt": "The majority of us are happy with our limited computer knowledge. If we can get to our e-mail and check our Facebook page, maybe buy a",
+    "url": "/technicalities/scam-o-rama"
+  },
+  {
+    "title": "The Walled Garden and Security",
+    "thumb": "/assets/posts/technicalities/the-walled-garden-and-security/sick-apple.png",
+    "date": "2015-09-21T20:02",
+    "excerpt": "This week one of the largest breaches of iOS software was disclosed. The breach came about due to a hacked version of Xcode. Dubbed XcodeGhost",
+    "url": "/technicalities/the-walled-garden-and-security"
+  },
+  {
+    "title": "Shut The Front Door",
+    "thumb": "assets/img/article-default.png",
+    "date": "2015-09-07T12:41",
+    "excerpt": "A few years ago our garage door opener broke. What has me thinking about it now is that the new one wants a new back",
+    "url": "/bicycles/the-rule-of-three"
+  },
+  {
+    "title": "Ultimate Raspberry Pi",
+    "thumb": "assets/img/article-default.png",
+    "date": "2015-08-27T21:09",
+    "excerpt": "There are many projects using sensors and motors that can be done with the Raspberry Pi, but if you just want a nice media center",
+    "url": "/bicycles/the-rule-of-three"
+  }
+]
