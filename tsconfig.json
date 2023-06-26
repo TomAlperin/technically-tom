@@ -27,6 +27,10 @@
       "@environment": [
         "src/environments/environment"
       ],
+      "@guards/*": [
+        "src/app/guards/*"
+      ],
+
       "@shared/*": [
         "src/app/shared/*"
       ],
@@ -35,6 +39,9 @@
       ],
       "@models/*": [
         "src/app/models/*"
+      ],
+      "lodash": [
+        "../node_modules/lodash-es"
       ]
     }
   },

@@ -4,11 +4,13 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "build:stats": "ng build --stats-json=true",
     "build:production": "ng build --configuration production --base-href https://technicallytom.com/",
-    "deploy:production": "npm run build:production && npx angular-cli-ghpages --dir=dist/twenty-one",
+    "deploy:production": "npm run build:production && npx angular-cli-ghpages --dir=dist/technically-tom",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test",
-    "bundle-report": "webpack-bundle-analyzer dist/twenty-one/stats-es2015.json"
+    "test": "ng test --browsers Chrome",
+    "ci": "ng test --watch=false --browsers=ChromeHeadless",
+    "bundle-report": "webpack-bundle-analyzer dist/technically-tom/stats-es2015.json"
   },
   "private": true,
   "dependencies": {
@@ -20,9 +22,11 @@
     "@angular/platform-browser": "^16.0.0",
     "@angular/platform-browser-dynamic": "^16.0.0",
     "@angular/router": "^16.0.0",
+    "@angular/service-worker": "^16.0.0",
     "bootstrap": "^5.3.0",
     "emoji-toolkit": "^7.0.1",
-    "ngx-bootstrap": "^6.2.0",
+    "lodash-es": "^4.17.21",
+    "ngx-bootstrap": "^10.2.0",
     "ngx-markdown": "^16.0.0",
     "prismjs": "^1.29.0",
     "rxjs": "~7.8.0",
@@ -35,6 +39,7 @@
     "@angular/cli": "~16.0.5",
     "@angular/compiler-cli": "^16.0.0",
     "@types/jasmine": "~4.3.0",
+    "@types/lodash": "^4.14.195",
     "jasmine-core": "~4.6.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",

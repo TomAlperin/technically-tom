@@ -6,6 +6,7 @@ import { ArticleCardComponent } from './article-card/article-card.component';
 import { ArticleComponent } from './article/article.component';
 import { MarkdownModule } from 'ngx-markdown';
 import { ArticlesComponent } from './articles/articles.component';
+import { ConfirmComponent } from './confirm/confirm.component';
 
 
 
@@ -14,7 +15,8 @@ import { ArticlesComponent } from './articles/articles.component';
     NavComponent,
     ArticleCardComponent,
     ArticleComponent,
-    ArticlesComponent
+    ArticlesComponent,
+    ConfirmComponent
   ],
   imports: [
     CommonModule,
