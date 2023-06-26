@@ -31,12 +31,16 @@
             ],
             "styles": [
               "src/styles.scss",
-              "node_modules/bootstrap/scss/bootstrap.scss"
+              "node_modules/bootstrap/scss/bootstrap.scss",
+              "node_modules/prismjs/themes/prism-okaidia.css"
             ],
             "scripts": [
               "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
               "node_modules/marked/marked.min.js",
-              "node_modules/emoji-toolkit/lib/js/joypixels.min.js"
+              "node_modules/emoji-toolkit/lib/js/joypixels.min.js",
+              "node_modules/prismjs/prism.js",
+              "node_modules/prismjs/components/prism-css.min.js",
+              "node_modules/prismjs/components/prism-shell-session.min.js"
             ]
           },
           "configurations": {

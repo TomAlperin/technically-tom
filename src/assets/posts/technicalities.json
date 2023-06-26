@@ -15,16 +15,16 @@
   },
   {
     "title": "Shut The Front Door",
-    "thumb": "assets/img/article-default.png",
+    "thumb": "assets/posts/technicalities/shut-the-front-door/chamberlain-garage-opener.jpg",
     "date": "2015-09-07T12:41",
     "excerpt": "A few years ago our garage door opener broke. What has me thinking about it now is that the new one wants a new back",
-    "url": "/bicycles/the-rule-of-three"
+    "url": "/technicalities/shut-the-front-door"
   },
   {
     "title": "Ultimate Raspberry Pi",
-    "thumb": "assets/img/article-default.png",
+    "thumb": "assets/posts/technicalities/ultimate-raspberry-pi/raspberry-pi.jpg",
     "date": "2015-08-27T21:09",
     "excerpt": "There are many projects using sensors and motors that can be done with the Raspberry Pi, but if you just want a nice media center",
-    "url": "/bicycles/the-rule-of-three"
+    "url": "/technicalities/ultimate-raspberry-pi"
   }
 ]
