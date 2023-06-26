@@ -4,9 +4,11 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build:production": "ng build --configuration production --base-href https://technicallytom.com/",
+    "deploy:production": "npm run build:production && npx angular-cli-ghpages --dir=dist/twenty-one",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "bundle-report": "webpack-bundle-analyzer dist/twenty-one/stats-es2015.json"
   },
   "private": true,
   "dependencies": {
@@ -25,6 +27,7 @@
     "prismjs": "^1.29.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
+    "webpack-bundle-analyzer": "^4.9.0",
     "zone.js": "~0.13.0"
   },
   "devDependencies": {
