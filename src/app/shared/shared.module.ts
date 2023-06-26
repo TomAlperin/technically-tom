@@ -7,6 +7,7 @@ import { ArticleComponent } from './article/article.component';
 import { MarkdownModule } from 'ngx-markdown';
 import { ArticlesComponent } from './articles/articles.component';
 import { ConfirmComponent } from './confirm/confirm.component';
+import { ArticleCardWideComponent } from './article-card-wide/article-card-wide.component';
 
 
 
@@ -14,6 +15,7 @@ import { ConfirmComponent } from './confirm/confirm.component';
   declarations: [
     NavComponent,
     ArticleCardComponent,
+    ArticleCardWideComponent,
     ArticleComponent,
     ArticlesComponent,
     ConfirmComponent
@@ -24,11 +26,12 @@ import { ConfirmComponent } from './confirm/confirm.component';
     MarkdownModule.forRoot()
   ],
   exports: [
-    NavComponent,
-    ArticleCardComponent,
     ArticleComponent,
-    MarkdownModule,
-    ArticlesComponent
+    ArticleCardComponent,
+    ArticleCardWideComponent,
+    ArticlesComponent,
+    NavComponent,
+    MarkdownModule
   ]
 })
 export class SharedModule { }

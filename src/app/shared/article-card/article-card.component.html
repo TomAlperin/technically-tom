@@ -2,9 +2,14 @@
   <div class="post-thumb">      
     <a [routerLink]="article.url">
       <div class="thumb-container">
-        <img [attr.src]="article.thumb" />
+        <img [attr.src]="article.thumb" [alt]="article.title"/>
       </div>
-      <h2>{{article.title}}</h2>
+      <h2>
+        <ng-container *ngIf="article.featured">
+          &nbsp;<i class="fa-solid fa-star float-end text-warning"></i>
+        </ng-container>
+        {{article.title}}
+      </h2>
     </a>
   </div>
   <span class="article-date" [ngClass]="{ dark: [true, ''].includes(dark)}">{{article.date | date:'MMM d yyyy | hh:mm a'}}</span>

@@ -8,6 +8,7 @@ import { SharedModule } from './shared/shared.module';
 import { HttpClientModule } from '@angular/common/http';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { ModalModule } from 'ngx-bootstrap/modal';
+import { HomeModule } from './home/home.module';
 
 @NgModule({
   declarations: [
@@ -19,6 +20,7 @@ import { ModalModule } from 'ngx-bootstrap/modal';
     AppRoutingModule,
     HttpClientModule,
     SharedModule,
+    HomeModule,
     ModalModule.forRoot(),
     ServiceWorkerModule.register('ngsw-worker.js', {
       enabled: !isDevMode(),

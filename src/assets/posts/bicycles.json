@@ -4,7 +4,8 @@
     "thumb": "assets/posts/bicycles/welcome-new-riders-please-ride-safe/fcc-rest-stop.jpg",
     "date": "2015-09-11T15:02",
     "excerpt": "When I first began riding, I started by doing solo long distance rides or rides with just a couple of friends. I felt extremely comfortable",
-    "url": "/bicycles/welcome-new-riders-please-ride-safe"
+    "url": "/bicycles/welcome-new-riders-please-ride-safe",
+    "featured": true
   },
   {
     "title": "The Rule of Three",
@@ -18,7 +19,8 @@
     "thumb": "assets/posts/bicycles/pulling-your-chain-do-bicycle-chains-really-stretch/chain-tool-2.jpg",
     "date": "2015-09-02T18:06",
     "excerpt": "There comes a time when all bicycle mechanics are faced with explaining to a customer why they need a new bicycle chain. The mechanic will",
-    "url": "/bicycles/pulling-your-chain-do-bicycle-chains-really-stretch"
+    "url": "/bicycles/pulling-your-chain-do-bicycle-chains-really-stretch",
+    "featured": true
   },
   {
     "title": "Up a Creek Without a Pedal?",

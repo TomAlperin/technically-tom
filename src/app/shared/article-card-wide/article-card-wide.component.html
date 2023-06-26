@@ -1,0 +1,25 @@
+<a [routerLink]="article.url">
+  <article class="row">
+    <div class="col-sm-4 col-md-3 home-image">
+      <img [attr.src]="article.thumb" [alt]="article.title" />
+    </div>
+    <div class="col-sm-8 col-md-9 position-relative">
+      <a [routerLink]="article.typeLink"
+        ><span class="post-type">{{ article.type }}</span></a
+      >
+      <h2 class="slide-title">
+        <ng-container *ngIf="article.featured">
+          &nbsp;<i class="fa-regular fa-star float-end text-warning"></i>
+        </ng-container>
+        {{ article.title }}
+      </h2>
+      <span class="date">{{
+        article.date | date : "MMM d yyyy | hh:mm a"
+      }}</span>
+      <p style="text-align: justify">{{ article.excerpt }}...</p>
+      <a [routerLink]="article.url" class="more-link">Read On</a>
+      <div class="clear"></div>
+      <div class="seperator"></div>
+    </div>
+  </article>
+</a>

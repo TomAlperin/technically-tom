@@ -2,6 +2,90 @@
 body {
   font: 400 15px/1.4 'Lato', Helvetica, Arial, sans-serif;
 }
+/*------------------------------------*\
+	TYPOGRAPHY
+\*------------------------------------*/
+/* Lato - Light */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(/assets/fonts/Lato-Light.ttf) format('truetype');
+}
+/* Lato - Regular */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(/assets/fonts/Lato-Regular.ttf) format('truetype');
+}
+/* Lato - Bold */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(/assets/fonts/Lato-Bold.ttf) format('truetype');
+}
+/* Lato - Light Italic */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Lato Light Italic'), local('Lato-LightItalic'), url(/assets/fonts/Lato-LightItalic.ttf) format('truetype');
+}
+/* Lato - Italic */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(/assets/fonts/Lato-Italic.ttf) format('truetype');
+}
+/* Lato - Bold Italic */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(/assets/fonts/Lato-BoldItalic.ttf) format('truetype');
+}
+/* Khand - Light */
+@font-face {
+  font-family: 'Khand';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Khand Light'), local('Khand-Light'), url(/assets/fonts/Khand-Light.ttf) format('truetype');
+}
+/* Khand - Regular */
+@font-face {
+  font-family: 'Khand';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Khand'), local('Khand-Regular'), url(/assets/fonts/Khand-Regular.ttf) format('truetype');
+}
+/* Khand - Medium */
+@font-face {
+  font-family: 'Khand';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Khand Medium'), local('Khand-Medium'), url(/assets/fonts/Khand-Medium.ttf) format('truetype');
+}
+/* Khand - Semibold */
+@font-face {
+  font-family: 'Khand';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Khand Semibold'), local('Khand-Semibold'), url(/assets/fonts/Khand-Semibold.ttf) format('truetype');
+}
+/* Khand - Bold */
+@font-face {
+  font-family: 'Khand';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Khand Bold'), local('Khand-Bold'), url(/assets/fonts/Khand-Bold.ttf) format('truetype');
+}
+
+.text-justify {
+  text-align:justify !important;
+}
 .carbon {
  background: linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px, linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px, linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px, linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px, linear-gradient(90deg, #1b1b1b 10px, transparent 10px), linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
  background-color: #131313;

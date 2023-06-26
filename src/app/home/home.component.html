@@ -1,5 +1,49 @@
 <main>
   <div class="container-fluid py-md-4 bd-layout">
-    <p>home works!</p>
+    <div class="row d-flex justify-content-center">
+      <div class="col-md-10 col-lg-8 col-xl-6">
+        <h1 class="blog-info">Technology, Guides, Advice, and More</h1>
+        <p class="text-justify">
+          Some people have their one true calling. The single endeavor they were
+          meant to pursue. For some of us, this is not the case. Those visiting
+          this website will experience just a few of my past and current
+          interests including computers, technology, and cycling. If you wish to
+          only view cycling related items, you can select “bikology” from the
+          main menu. Selecting “technicalities” limits content to computer and
+          electronics related subjects.
+        </p>
+      </div>
+    </div>
+
+    <ngb-carousel *ngIf="articles.length">
+      <ng-template
+        *ngFor="let feature of featured; trackBy: trackByFn"
+        ngbSlide
+      >
+        <div class="carousel-img-wrapper">
+          <img
+            [src]="feature.thumb"
+            [alt]="feature.title"
+            class="d-block w-100"
+          />
+        </div>
+        <div class="carousel-caption">
+          <h2>{{ feature.title }}</h2>
+        </div>
+      </ng-template>
+    </ngb-carousel>
+
+    <div class="row d-flex justify-content-center">
+      <div class="col-md-10 col-lg-8 col-xl-6 py-2">
+        <div class="row">
+          <div
+            *ngFor="let article of articles; trackBy: trackByFn"
+            class="col-12 py-2"
+          >
+            <app-article-card-wide [article]="article"></app-article-card-wide>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </main>
