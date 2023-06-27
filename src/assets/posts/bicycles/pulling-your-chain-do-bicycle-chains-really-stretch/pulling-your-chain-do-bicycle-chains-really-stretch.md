@@ -3,7 +3,7 @@ There comes a time when all bicycle mechanics are faced with explaining to a cus
 Do bicycle chains really stretch? The short answer is no, however they do wear in such a way as to cause their maximum length to increase. Mechanics usually refer to this as chain “stretch.” It is the sign of a worn out chain that should be replaced.
 
 <div class="float-start p-3 ps-0 w-50">
-  <img class="w-100" src="/assets/posts/bicycles/pulling-your-chain-do-bicycle-chains-really-stretch/worn-chain-pin.jpg" alt="Extreme wear on a chain pin" />
+  <img class="w-100" src="assets/posts/bicycles/pulling-your-chain-do-bicycle-chains-really-stretch/worn-chain-pin.jpg" alt="Extreme wear on a chain pin" />
   <p>
     <em>Illustration of extreme wear on a chain pin. Inner links wear groves into the pin.</em>
   </p>
@@ -17,7 +17,7 @@ Modern chains are made up of inner link plates, outer link plates, bushings, and
 On a severely worn chain, groves will be clearly visible in the center of a removed chain pin. This not only changes the pitch, but also causes the chain to have more movement from side to side. This can decrease shifting performance as well.
 
 <div class="float-end p-3 pe-0 w-50">
-  <img class="w-100" src="/assets/posts/bicycles/pulling-your-chain-do-bicycle-chains-really-stretch/chain-tool-1.jpg" alt="Park CC-3 chain wear measuring tool" />
+  <img class="w-100" src="assets/posts/bicycles/pulling-your-chain-do-bicycle-chains-really-stretch/chain-tool-1.jpg" alt="Park CC-3 chain wear measuring tool" />
   <p>
     <em>Tool for measuring chain wear.</em>
   </p>
@@ -46,7 +46,7 @@ If standing on the drive side of the bike with the broken section of chain on th
 Use the proper chain tool to install the pins if the manufacturer specifies this.
 Read all the installation instructions that came with your chain to be sure you have all the rules down before you attempt to install. Some chains are directional and need to be installed with printed logos facing out towards the drive side.
 ### KMC “Missing Link”
-  <img class="float-end w-50 p-3 pe-0" src="/assets/posts/bicycles/pulling-your-chain-do-bicycle-chains-really-stretch/kmc-missing-link.jpg" alt="Multi-speed master link" />
+  <img class="float-end w-50 p-3 pe-0" src="assets/posts/bicycles/pulling-your-chain-do-bicycle-chains-really-stretch/kmc-missing-link.jpg" alt="Multi-speed master link" />
 
 Scared yet? Well there’s another option. KMC makes a reusable master link that will work with geared bicycles. There are several models and you need to chose the right one for the number of gears and manufacturer of chain that you are using. How reusable are they? I would not recommend using them beyond the life of a single chain. You may find that you have to replace them more often if the chain is removed several times over its life span. For a few bucks you gain the ability to remove your chain more easily for cleaning and you don’t have the list of installation “rules” to worry about. Just choose the right model for your chain.
 

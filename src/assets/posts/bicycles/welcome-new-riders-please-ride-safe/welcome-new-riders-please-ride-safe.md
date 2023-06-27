@@ -1,6 +1,6 @@
 When I first began riding, I started by doing solo long distance rides or rides with just a couple of friends. I felt extremely comfortable with my riding before I even attempted to ride with a larger group and even then I wasn’t as safe a rider as I am now. Cycling used to be a mostly male dominated sport, but that has changed and it’s great that this has changed because everyone should get to experience the benefits and joys of this wonderful sport. More women and men are riding today than ever before, and this is amazing.
 
-<img class="float-start p-3 ps-0" width="50%" src="/assets/posts/bicycles/welcome-new-riders-please-ride-safe/fcc-rest-stop.jpg" alt="FCC Cycling Club Rest Stop" />
+<img class="float-start p-3 ps-0" width="50%" src="assets/posts/bicycles/welcome-new-riders-please-ride-safe/fcc-rest-stop.jpg" alt="FCC Cycling Club Rest Stop" />
 
 **IMPORTANT:** Please new riders, do not be offended by any of the following. We all have to start somewhere. The cycling community always welcomes new riders, but please read and be aware of the risks that new riders bring to group rides. Be understanding and use what you learn here to lessen the chance you will accidentally cause harm to yourself and others.
 
@@ -18,7 +18,7 @@ The first few years of these new “coaching clubs” was a bit rough. Large gro
 6. Ride defensively. This not only includes group rides, but when you are riding alone in traffic. Assume cars passing you will turn in front of you at the first available opportunity. Drivers on occasion will speed up to pass you so they can turn without realizing this gives you no stopping distance as they turn in front of you. Make eye contact with drivers whenever possible. This is the best way to determine if the driver is paying attention to you.
 
 <div class="float-end p-3 d-inline-block">
-  <img width="200px" src="/assets/posts/bicycles/welcome-new-riders-please-ride-safe/squirrel.jpg" alt="DON'T RIDE LIKE A SQUIRREL" />
+  <img width="200px" src="assets/posts/bicycles/welcome-new-riders-please-ride-safe/squirrel.jpg" alt="DON'T RIDE LIKE A SQUIRREL" />
   <p class="text-center"><strong>Don’t be a squirrel</strong></p>
 </div>
 

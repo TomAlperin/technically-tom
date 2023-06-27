@@ -1,6 +1,6 @@
 During the many years I spent working at bicycle shops, I came up with this philosophy about how bicycles work or don’t work. I call this “The Rule of Three.” It’s not exactly the same as the superstitious belief that “bad things come in threes.” The rule simply states that you can have three very minor issues with your drivetrain and it will probably still work. On the fourth issue, it will stop working as it should.
 
-<img class="py-3" width="100%" src="/assets/posts/bicycles/the-rule-of-three/right-shift-brake-lever.jpg" alt="Right Brake/Shift Lever">
+<img class="py-3" width="100%" src="assets/posts/bicycles/the-rule-of-three/right-shift-brake-lever.jpg" alt="Right Brake/Shift Lever">
 
 With “The Rule of Three,” an issue is anything that is not absolutely perfect in adjustment or choice of components. This idea that three minor imperfections were all that could be allowed came about from my experiences extending gear ranges beyond what was recommended and from working on tandems. In “The Rule of Three,” both tandems and these extended gear ranges count as issues. I do not mean this as a recommendation to not ride tandems or equip your bicycle with a super low gear. Remember, you are allowed up to three issues.
 
@@ -18,7 +18,7 @@ If some components are old and starting to wear out, you have a strike.
 If you don’t shift your bike perfectly and I mean an absolutely perfect amount of force applied to the shift lever, held down long enough for the shift to occur, you can count this as a strike as well. I’ll explain why this is important later.
 You may have noticed something about this list if you read it carefully. Some things on this list are things you can’t do without while other things just seem like poor choices with no real benefit. What is important is to begin to recognize things on the list that are unnecessary. It’s also important to realize that your bike might not be shifting reliably due to a number of issues that need to be addressed rather than just a single problem.
 
-<img class="float-start p-3 ps-0" height="400px" src="/assets/posts/bicycles/the-rule-of-three/front-deraileur-cage.jpg" alt="Front Deraileur">
+<img class="float-start p-3 ps-0" height="400px" src="assets/posts/bicycles/the-rule-of-three/front-deraileur-cage.jpg" alt="Front Deraileur">
 
 Front derailleur cage ledges to lift chain up to larger rings.
 
@@ -27,7 +27,7 @@ Whenever I was handed new “special” projects working as a bicycle mechanic, 
 ### “My Friend’s Bike Works Like This”
 Rider A has been riding for years. He’s got an ultra low gear for the hills, with modifications not only to the front gears but also the cassette. A quick assessment of his bike would indicate he’s got about three strikes. Rider A , however, keeps his bike tuned up regularly, knows how to do minor derailleur adjustments out on a ride, and shifts perfectly. Rider B is a new rider. He is friends with rider A who has recommended a bike shop so he can get a bike just like his.
 
-<img class="float-end p-3 pe-0" width="50%" src="/assets/posts/bicycles/the-rule-of-three/chainring-pins.jpg" alt="Chainring Pins">
+<img class="float-end p-3 pe-0" width="50%" src="assets/posts/bicycles/the-rule-of-three/chainring-pins.jpg" alt="Chainring Pins">
 
 Chainring pins work with ramps to lift chain on to larger ring.
 
@@ -42,7 +42,7 @@ Rider A’s components do not have as many of these refinements to improve shift
 ### Balancing Act
 Building the ultimate anything is always a balancing act. This is something that I think consumers have a tough time understanding. They go out to buy a computer, for example and buy the cheapest one with the fastest processor with no consideration for the other components. In the world of bikes, it’s often the weight of the bike that is the prime concern of the purchaser when they should be also considering how the bike handles as well as how well the shifting works.
 
-<img class="float-start p-3 ps-0" width="30%" src="/assets/posts/bicycles/the-rule-of-three/tandem-gearing.jpg" alt="Tandem Gears">
+<img class="float-start p-3 ps-0" width="30%" src="assets/posts/bicycles/the-rule-of-three/tandem-gearing.jpg" alt="Tandem Gears">
 
 Bike has been geared low with mountain parts.
 
@@ -50,7 +50,7 @@ If you want the ultimate in fast shifting, here’s what you need to do. First y
 
 You know what else rocks? Tandem riding. After 8 years of amazing, epic rides done on tandem, I’d have to say it’s definitely worth the extra effort spent in getting things to work properly. I have been blessed with an amazing stoker that was not only experienced but has done an amazing job at picking up on my own strange riding habits. The problem with strike 3 on a tandem is that shifting is not always just dependent on the captains performance. The stoker can mess up shifting by pedaling too hard during a shift as well. Some tandem teams have trouble standing together, I can pull off an upshift with both of us standing on a hill (although Sharon usually doesn’t like me doing this.)
 
-<img class="float-end p-3 pe-0" width="40%" src="/assets/posts/bicycles/the-rule-of-three/chainring-ramps.jpg" alt="Chainring Ramps">
+<img class="float-end p-3 pe-0" width="40%" src="assets/posts/bicycles/the-rule-of-three/chainring-ramps.jpg" alt="Chainring Ramps">
 
 Ramps act as virtual gear to help lift chain on to actual gear.
 

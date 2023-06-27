@@ -10,8 +10,8 @@ export const homeResolver: ResolveFn<any> = (
   state,
   api: ApiService = inject(ApiService)
 ) => {
-  const bicycles = api.getJSON(`/assets/posts${state.url}/bicycles`);
-  const technicalities = api.getJSON(`/assets/posts${state.url}/technicalities`);
+  const bicycles = api.getJSON(`assets/posts${state.url}/bicycles`);
+  const technicalities = api.getJSON(`assets/posts${state.url}/technicalities`);
 
   return forkJoin({
     bicycles,
