@@ -9,8 +9,9 @@
     "deploy:production": "npm run build:production && npx angular-cli-ghpages --dir=dist/technically-tom",
     "watch": "ng build --watch --configuration development",
     "test": "ng test --browsers Chrome",
+    "coverage": "ng test --code-coverage --watch=false --browsers=ChromeHeadless",
     "ci": "ng test --watch=false --browsers=ChromeHeadless",
-    "bundle-report": "webpack-bundle-analyzer dist/technically-tom/stats-es2015.json"
+    "bundle-report": "webpack-bundle-analyzer dist/technically-tom/stats.json"
   },
   "private": true,
   "dependencies": {
