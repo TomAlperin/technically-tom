@@ -21,7 +21,7 @@ jobs:
       - name: Setup v3
         uses: actions/setup-node@v3
         with:
-          node-version: 18.10
+          node-version: 16.14
           cache: 'npm'
       - name: Setup Chrome Headless
         uses: nanasess/setup-chromedriver@master
