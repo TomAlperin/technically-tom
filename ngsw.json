@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1687834125985,
+  "timestamp": 1687834481045,
   "index": "https://tomalperin.github.io/technically-tom/index.html",
   "assetGroups": [
     {
@@ -17,12 +17,12 @@
         "https://tomalperin.github.io/technically-tom/common.47402869bc26a62c.js",
         "https://tomalperin.github.io/technically-tom/favicon.ico",
         "https://tomalperin.github.io/technically-tom/index.html",
-        "https://tomalperin.github.io/technically-tom/main.58be830651dbb0a5.js",
+        "https://tomalperin.github.io/technically-tom/main.86347f11793deb05.js",
         "https://tomalperin.github.io/technically-tom/manifest.webmanifest",
         "https://tomalperin.github.io/technically-tom/polyfills.0ff62c64e7c07903.js",
         "https://tomalperin.github.io/technically-tom/runtime.ebb0fc44ed282e07.js",
         "https://tomalperin.github.io/technically-tom/scripts.6bcc729d26dc5e5d.js",
-        "https://tomalperin.github.io/technically-tom/styles.086b8872291e5725.css"
+        "https://tomalperin.github.io/technically-tom/styles.c466a71235e3c8a1.css"
       ],
       "patterns": []
     },
@@ -491,13 +491,13 @@
     "https://tomalperin.github.io/technically-tom/fa-v4compatibility.6209cf0172d95b0e.woff2": "8f80d0bbe995f7fe92320fdaec10cd5ccd710a51",
     "https://tomalperin.github.io/technically-tom/fa-v4compatibility.92dce52f885fd838.ttf": "a9d072aca9e0fadc2a7167671ce3d6b18d9cd2cc",
     "https://tomalperin.github.io/technically-tom/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://tomalperin.github.io/technically-tom/index.html": "9a69d846642569630fb4e4ab82b879cde2bdf722",
-    "https://tomalperin.github.io/technically-tom/main.58be830651dbb0a5.js": "bd43f01f56238579b647798961ed1bb3e031520e",
+    "https://tomalperin.github.io/technically-tom/index.html": "ce8a99007fdf1f72d1f108815bdcb6bc926886c5",
+    "https://tomalperin.github.io/technically-tom/main.86347f11793deb05.js": "c841bbc13be9f7eab41b8797b9b51cc777732b24",
     "https://tomalperin.github.io/technically-tom/manifest.webmanifest": "9a68348d8f10b401bb8c28e64c725b8491741282",
     "https://tomalperin.github.io/technically-tom/polyfills.0ff62c64e7c07903.js": "d7721c16fd5e99b1a7bb831354e6299e54710d5f",
     "https://tomalperin.github.io/technically-tom/runtime.ebb0fc44ed282e07.js": "3a7b10d89078b6455bec34ef65e4789eaddec0e6",
     "https://tomalperin.github.io/technically-tom/scripts.6bcc729d26dc5e5d.js": "dcb4393d111b55e1fe7d0185dfdc3c19e8570f18",
-    "https://tomalperin.github.io/technically-tom/styles.086b8872291e5725.css": "97a83d2be622b30d7087e6f83bc302be32de512b"
+    "https://tomalperin.github.io/technically-tom/styles.c466a71235e3c8a1.css": "a909db147e27849a9e17bcdd5a22fe0dec63b468"
   },
   "navigationUrls": [
     {
