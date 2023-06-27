@@ -15,7 +15,7 @@
       </div>
     </div>
 
-    <ngb-carousel *ngIf="articles.length">
+    <ngb-carousel *ngIf="articles?.length">
       <ng-template
         *ngFor="let feature of featured; trackBy: trackByFn"
         ngbSlide

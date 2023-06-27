@@ -1,20 +1,32 @@
 <article>
-  <div class="post-thumb">      
+  <div
+    class="post-thumb"
+    [ngClass]="{ 'shake-feature': article.featured }"
+  >
     <a [routerLink]="article.url">
       <div class="thumb-container">
-        <img [attr.src]="article.thumb" [alt]="article.title"/>
+        <img [attr.src]="article.thumb" [alt]="article.title" />
       </div>
       <h2>
         <ng-container *ngIf="article.featured">
-          &nbsp;<i class="fa-solid fa-star float-end text-warning"></i>
+          &nbsp;<i class="fa-solid fa-star float-end text-warning shake"></i>
         </ng-container>
-        {{article.title}}
+        {{ article.title }}
       </h2>
     </a>
   </div>
-  <span class="article-date" [ngClass]="{ dark: [true, ''].includes(dark)}">{{article.date | date:'MMM d yyyy | hh:mm a'}}</span>
-  <p class="excerpt" [ngClass]="{ dark: [true, ''].includes(dark)}">
-    {{ article.excerpt}}...
+  <span class="article-date" [ngClass]="{ dark: [true, ''].includes(dark) }">{{
+    article.date | date : "MMM d yyyy | hh:mm a"
+  }}</span>
+  <p class="excerpt" [ngClass]="{ dark: [true, ''].includes(dark) }">
+    {{ article.excerpt }}...
   </p>
-  <p class="read-more"><a [routerLink]="article.url" class="read-article" [ngClass]="{ dark: [true, ''].includes(dark)}">Read More</a></p>
+  <p class="read-more">
+    <a
+      [routerLink]="article.url"
+      class="read-article"
+      [ngClass]="{ dark: [true, ''].includes(dark) }"
+      >Read More</a
+    >
+  </p>
 </article>

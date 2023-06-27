@@ -2,6 +2,17 @@
 body {
   font: 400 15px/1.4 'Lato', Helvetica, Arial, sans-serif;
 }
+main {
+  top: 48px;
+  left: 0px;
+  height: calc(100% - 48px);
+  width: 100%;
+  overflow: hidden;
+  overflow-y: auto;
+  position: fixed;
+  -webkit-overflow-scrolling: touch;
+}
+
 /*------------------------------------*\
 	TYPOGRAPHY
 \*------------------------------------*/
@@ -90,5 +101,66 @@ body {
  background: linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px, linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px, linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px, linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px, linear-gradient(90deg, #1b1b1b 10px, transparent 10px), linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
  background-color: #131313;
  background-size: 20px 20px;
- min-height: 100vh;
+}
+
+.shake {
+  -webkit-animation: ring 3s linear infinite; /* Safari 4.0 - 8.0 */
+  animation: shake 3s linear infinite;
+  will-change: transform;
+}
+
+.kaboom {
+  -webkit-animation: ring 3s linear infinite; /* Safari 4.0 - 8.0 */
+  animation: shake 3s linear;
+  will-change: transform;
+}
+
+.shake-feature {
+  &:hover {
+    -webkit-animation: ring 3s linear infinite; /* Safari 4.0 - 8.0 */
+    animation: shake 3s linear infinite;
+    will-change: transform;
+  }
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes shake {
+  1%  {transform: rotate(15deg)}
+  2%  {transform: rotate(0deg)}
+  3%  {transform: rotate(-15deg)}
+  4%  {transform: rotate(0deg)}
+  5%  {transform: rotate(15deg)}
+  6%  {transform: rotate(0deg)}
+  7%  {transform: rotate(-15deg)}
+  8%  {transform: rotate(0deg)}
+  9%  {transform: rotate(15deg)}
+  10%  {transform: rotate(0deg)}
+  11%  {transform: rotate(-15deg)}
+  12%  {transform: rotate(0deg)}
+  13%  {transform: rotate(15deg)}
+  14%  {transform: rotate(0deg)}
+  15%  {transform: rotate(-15deg)}
+  16%  {transform: rotate(0deg)}
+  100%  {transform: rotate(0deg)}
+}
+
+/* Standard syntax */
+@keyframes shake {
+  1%  {-webkit-transform: rotate(15deg)}
+  2%  {-webkit-transform: rotate(0deg)}
+  3%  {-webkit-transform: rotate(-15deg)}
+  4%  {-webkit-transform: rotate(0deg)}
+  5%  {-webkit-transform: rotate(15deg)}
+  6%  {-webkit-transform: rotate(0deg)}
+  7%  {-webkit-transform: rotate(-15deg)}
+  8%  {-webkit-transform: rotate(0deg)}
+  9%  {-webkit-transform: rotate(15deg)}
+  10%  {-webkit-transform: rotate(0deg)}
+  11%  {-webkit-transform: rotate(-15deg)}
+  12%  {-webkit-transform: rotate(0deg)}
+  13%  {-webkit-transform: rotate(15deg)}
+  14%  {-webkit-transform: rotate(0deg)}
+  15%  {-webkit-transform: rotate(-15deg)}
+  16%  {-webkit-transform: rotate(0deg)}
+  100% {-webkit-transform: rotate(0deg)}
 }

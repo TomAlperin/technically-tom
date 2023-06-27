@@ -1,7 +1,11 @@
 <a [routerLink]="article.url">
   <article class="row">
     <div class="col-sm-4 col-md-3 home-image">
-      <img [attr.src]="article.thumb" [alt]="article.title" />
+      <img
+        [attr.src]="article.thumb"
+        [alt]="article.title"
+        [ngClass]="{ 'shake-feature': article.featured }"
+      />
     </div>
     <div class="col-sm-8 col-md-9 position-relative">
       <a [routerLink]="article.typeLink"
@@ -9,7 +13,7 @@
       >
       <h2 class="slide-title">
         <ng-container *ngIf="article.featured">
-          &nbsp;<i class="fa-regular fa-star float-end text-warning"></i>
+          &nbsp;<i class="fa-regular fa-star float-end text-warning shake"></i>
         </ng-container>
         {{ article.title }}
       </h2>
