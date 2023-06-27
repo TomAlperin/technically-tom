@@ -1,14 +1,14 @@
 [
   {
     "title": "Scam-O-Rama",
-    "thumb": "/assets/posts/technicalities/scam-o-rama/croc.jpg",
+    "thumb": "assets/posts/technicalities/scam-o-rama/croc.jpg",
     "date": "2015-09-22T18:46",
     "excerpt": "The majority of us are happy with our limited computer knowledge. If we can get to our e-mail and check our Facebook page, maybe buy a",
     "url": "/technicalities/scam-o-rama"
   },
   {
     "title": "The Walled Garden and Security",
-    "thumb": "/assets/posts/technicalities/the-walled-garden-and-security/sick-apple.png",
+    "thumb": "assets/posts/technicalities/the-walled-garden-and-security/sick-apple.png",
     "date": "2015-09-21T20:02",
     "excerpt": "This week one of the largest breaches of iOS software was disclosed. The breach came about due to a hacked version of Xcode. Dubbed XcodeGhost",
     "url": "/technicalities/the-walled-garden-and-security"
@@ -31,7 +31,7 @@
   },
   {
     "title": "Using GRSYNC For USB Install on Raspberry Pi",
-    "thumb": "/assets/img/article-default.png",
+    "thumb": "assets/img/article-default.png",
     "date": "2015-07-29T00:33",
     "excerpt": "Moving an install from SD card to USB device using the dd utility can have some major annoyances. It can’t be done on a running",
     "url": "/technicalities/using-grsync-for-usb-install-on-raspberry-pi"

@@ -1,7 +1,7 @@
 As a new riders discovering leaning about cycling, you eventually come to the point where you are considering clipless pedals. Perhaps you are having trouble keeping up with other club riders and have inquired about ways to improve your performance. If you are not already using clipless pedals, switching to them will result in substantial benefits. Some new riders are reluctant to even try them due to safety concerns, however, properly used clipless pedals can actually add a certain degree of safety.
 
 <div class="float-start p-3 ps-0 w-50">
-  <img class="w-100" src="/assets/posts/bicycles/clipped-in-guide-for-new-clipless-pedal-users/spd-pedal.jpg" alt="SPD Pedal" />
+  <img class="w-100" src="assets/posts/bicycles/clipped-in-guide-for-new-clipless-pedal-users/spd-pedal.jpg" alt="SPD Pedal" />
   <p>
     <em>SPD mountain pedal. Easier for beginners. Easier to walk in. Release tension adjustment shown. Be sure to adjust both sides to same tension.</em>
   </p>
@@ -14,7 +14,7 @@ If you are one of those new riders that has safety concerns about cleated pedal 
 &nbsp; 3. The most common fall resulting from clipless pedal use happens at about zero MPH. It’s not fun falling at any speed, but you are less likely to be seriously injured at slower speeds and these sort of mishaps are easily preventable if the rider follows a few simple rules.
 
 <div class="float-end p-3 pe-0 w-50">
-  <img class="w-100" src="/assets/posts/bicycles/clipped-in-guide-for-new-clipless-pedal-users/spd-cleat.jpg" alt="Shimano SPD Cleat" />
+  <img class="w-100" src="assets/posts/bicycles/clipped-in-guide-for-new-clipless-pedal-users/spd-cleat.jpg" alt="Shimano SPD Cleat" />
    <p>
     <em>SPD mountain cleat.</em>
   </p>
@@ -29,7 +29,7 @@ These Aren’t the Pedals You’re Looking For
 For new riders, it’s not a bad idea to begin with mountain bike pedals, even if riding a road bike. Mountain bike pedals work with shoes that have a sole similar to a normal walking shoe and adjust to lower release tensions than some road models. Ultimately, it’s the riders choice which system is the best to start with. A good bicycle shop will fit your bike to accommodate the new pedals and let you test them in a stationary trainer to make sure you are comfortable with their use and operation. You should feel capable of operating the pedal release system before you leave the shop. You should not take to the road until you feel confident using them. Shimano’s mountain pedals have been a popular choice for beginners for years due to their adjustability and their predictable release behavior.
 
 <div class="float-start p-3 ps-0 w-50">
-  <img class="w-100" src="/assets/posts/bicycles/clipped-in-guide-for-new-clipless-pedal-users/speedplay-pedal.jpg" alt="Speedplay Pedal" />
+  <img class="w-100" src="assets/posts/bicycles/clipped-in-guide-for-new-clipless-pedal-users/speedplay-pedal.jpg" alt="Speedplay Pedal" />
   <p>
     <em>Speedily pedal. Larger platform but harder to walk in. Usually for more advanced riders.</em>
   </p>
@@ -58,7 +58,7 @@ Unclip early whenever you have the chance. Don’t wait for the last second to d
 It is easier to clip out if the leg you are clipping out on is rotated towards the bottom of the pedal stroke. It is not important to be at the absolute bottom of the pedal stroke, but the top of the pedal stroke is a definite no, no. Attempting to clip out at the top of the pedal stroke is a common mistake made by new riders. This is a result of being accustomed to having the opposite leg down to support your weight to lift off the saddle before stepping down. When using clipless pedals, the rider should first clip out, then rotate  the other leg down to support weight.
 
 <div class="float-start p-3 ps-0 w-50">
-  <img class="w-100" src="/assets/posts/bicycles/clipped-in-guide-for-new-clipless-pedal-users/speedplay-cleat.jpg" alt="Speedplay Road Cleat" />
+  <img class="w-100" src="assets/posts/bicycles/clipped-in-guide-for-new-clipless-pedal-users/speedplay-cleat.jpg" alt="Speedplay Road Cleat" />
   <p>
     <em>Speedily road cleat. No tension adjustment on cleats or pedals.</em>
   </p>
@@ -72,7 +72,7 @@ When you step down, lean the bike over and step away from the bike. Martial arts
 ### Practice, Practice, Practice ###
 
 <div class="float-end p-3 pe-0 w-25">
-  <img class="w-100" src="/assets/posts/bicycles/clipped-in-guide-for-new-clipless-pedal-users/speedplay-cleat-with-cover.jpg" alt="Speedplay Cleat With Protective Cover Installed" />
+  <img class="w-100" src="assets/posts/bicycles/clipped-in-guide-for-new-clipless-pedal-users/speedplay-cleat-with-cover.jpg" alt="Speedplay Cleat With Protective Cover Installed" />
   <p>
     <em>Speedily cleat with protective cover installed. Makes walking a little easier. Protects cleat from debris that can make them harder to use.</em>
   </p>

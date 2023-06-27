@@ -12,7 +12,7 @@ The other cool feature the new opener comes with is auto-close. There is a butto
 
 This is a Saturday. I remember this well as I’m still working at the bicycle shop. Saturdays are typically the busiest day of the week. This Saturday is no exception. When Sharon calls, she’s a little bit frazzled. About every five minutes, the door comes down with a crash and then raises again. She has managed to unplug the openers but the battery back-up is working great. I mean, it’s amazing how many times you can get that door open and closed on that thing, especially with the extra weight it has to pull. I manage to talk Sharon through disconnecting the door from the opener until I can get home.
 
-<img class="float-end p-3 pe-0" width="40%" src="/assets/posts/technicalities/shut-the-front-door/clicker-remote.jpg" alt="Clicker Remote">
+<img class="float-end p-3 pe-0" width="40%" src="assets/posts/technicalities/shut-the-front-door/clicker-remote.jpg" alt="Clicker Remote">
 
 It only takes a few internet searches leading to lists of serious injuries caused by mishandling garage springs to call in a professional. We have him replace both springs. Again, domestic tranquility reigns supreme… for about a week.
 

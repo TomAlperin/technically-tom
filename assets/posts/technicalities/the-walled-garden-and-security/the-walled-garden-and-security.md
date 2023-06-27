@@ -1,6 +1,6 @@
 This week one of the largest breaches of iOS software was disclosed. The breach came about due to a hacked version of Xcode. Dubbed XcodeGhost, the exploit uses a hacked version of Xcode to install additional code which can be used for password phishing and limited  collection of other data on the device.
 
-<img class="float-start p-3 ps-0" width="30%" src="/assets/posts/technicalities/the-walled-garden-and-security/sick-apple.png" alt="Sick Apple">
+<img class="float-start p-3 ps-0" width="30%" src="assets/posts/technicalities/the-walled-garden-and-security/sick-apple.png" alt="Sick Apple">
 
 More information and a list of compromised apps is available here. This could have been much more serious had the perpetrators figured out how to do something even more threatening to the users privacy, such as controlling cameras. While I do think that this breach is quite serious and has lowered my trust a bit with Apple’s software vetting and distribution, the alternative of relying on third party virus scanning software distresses me even more. For virus scanning software to work effectively, it would probably need to have access to all the “sandboxes” that software runs within which could actually lower security.
 

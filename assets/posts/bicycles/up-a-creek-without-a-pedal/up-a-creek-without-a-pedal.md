@@ -12,7 +12,7 @@ A discussion I once had with a rider that had just snapped his chain and taken a
 That one clicking noise was the damaged link passing through the derailleur and skipping on the cogs. The click is similar to a number of other sounds that can occur, however it occurs at regular intervals, not on every pedal stroke and usually at different points of the pedal stroke. I have saved myself from the same fate a few times simply by being able to identify this noise.
 
 <div class="float-start p-3 ps-0 w-25">
-  <img class="w-100" src="/assets/posts/bicycles/up-a-creek-without-a-pedal/seat-clamp.jpg" alt="Seat Clamp" />
+  <img class="w-100" src="assets/posts/bicycles/up-a-creek-without-a-pedal/seat-clamp.jpg" alt="Seat Clamp" />
   <p>
     <em>Seat Clamp.</em>
   </p>
@@ -22,7 +22,7 @@ The volume of a sound unfortunately says nothing about the severity of the issue
 
 ***Identifying the Cause***
 <div class="float-end p-3 pe-0 w-50">
-  <img class="w-100" src="/assets/posts/bicycles/up-a-creek-without-a-pedal/seatpost-test.jpg" alt="Testing for noises in seat post clamp or saddle clamp" />
+  <img class="w-100" src="assets/posts/bicycles/up-a-creek-without-a-pedal/seatpost-test.jpg" alt="Testing for noises in seat post clamp or saddle clamp" />
   <p>
     <em>Pulling on the saddle can help identify noises coming from the seat post clamp and the saddle clamp.</em>
   </p>
@@ -32,7 +32,7 @@ The most commonly heard noise is a click that is heard on each pedal stroke. The
 Derailleur cables can also emit clicking noises. Since this noise is usually heard loudest when turning the bars really slowly, it’s often assumed the noise is coming from the bottom bracket area. The noise may be initially noticed while standing on the pedals since riders tend to turn the bars slightly back and fourth as the bike sways side to side while standing. This issue, while not a sign of a possible critical failure, will eventually lead to a decline in shifting performance if not corrected. This can be corrected by either replacing the housing or trimming the housing a little shorter to remove the exposed wires on the end of each section.
 
 <div class="float-start p-3 ps-0 w-50">
-  <img class="w-100" src="/assets/posts/bicycles/up-a-creek-without-a-pedal/pedal-test.jpg" alt="Testing for loose bottom bracket." />
+  <img class="w-100" src="assets/posts/bicycles/up-a-creek-without-a-pedal/pedal-test.jpg" alt="Testing for loose bottom bracket." />
   <p>
     <em>A loose bottom bracket will usually click when force is applied to the pedal like this. Alternate between both sides of the bike to effectively test for this.</em>
   </p>
@@ -53,7 +53,7 @@ Most mechanics will address the common causes without first checking. It’s som
 Once all the identifiable issues have been fixed, it’s now time to consider the possibility of a more serious problem if the bike continues to make odd noises. Do not continue to ride a bike that is making odd noises that you can not identify.
 
 <div class="float-start p-3 ps-0 w-25">
-  <img class="w-100" src="/assets/posts/bicycles/up-a-creek-without-a-pedal/stem-failure.jpg" alt="Replace me!" />
+  <img class="w-100" src="assets/posts/bicycles/up-a-creek-without-a-pedal/stem-failure.jpg" alt="Replace me!" />
   <p>
     <em>This stem is dangerously close to failing.</em>
   </p>
