@@ -9,5 +9,5 @@ export const jsonResolver: ResolveFn<any> = (
   api: ApiService = inject(ApiService)
 ) => {
   const param = route.params['post'];
-  return api.getJSON(`/assets/posts${state.url}${param ? '/' + param : ''}`);
+  return api.getJSON(`assets/posts${state.url}${param ? '/' + param : ''}`);
 };

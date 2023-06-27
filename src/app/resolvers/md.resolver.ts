@@ -8,5 +8,5 @@ export const mdResolver: ResolveFn<any> = (
   api: ApiService = inject(ApiService)
 ) => {
   const article = route.params['post'];
-  return api.getMD(`/assets/posts${state.url}/${article}`);
+  return api.getMD(`assets/posts${state.url}/${article}`);
 };

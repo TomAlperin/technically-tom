@@ -3,8 +3,8 @@ The majority of us are happy with our limited computer knowledge. If we can get 
 I have received several similar calls to this one. The calls typically will inform me that my “Windows Computer” has been compromised and that they somehow can see this from wherever they are which judging by the accent, is somewhere in India. The problem with this is that I don’t own any Windows computers.
 
 <audio class="w-100" preload="none" controls="controls">
-  <source type="audio/mpeg" src="/assets/posts/technicalities/scam-o-rama/windows-phone-scam.mp3">
-  <a href="/assets/posts/technicalities/scam-o-rama/windows-phone-scam.mp3">Scam Call Recording</a>
+  <source type="audio/mpeg" src="assets/posts/technicalities/scam-o-rama/windows-phone-scam.mp3">
+  <a href="assets/posts/technicalities/scam-o-rama/windows-phone-scam.mp3">Scam Call Recording</a>
 </audio>
 
 The average person knows nothing about how a transistor works and less about the inner workings of any computer hardware, and while it’s not necessary for most of us to know such things, some of us are not even well equipped to recognize scams like the one recorded here. What the caller is trying to accomplish is to get me to allow him to connect to my computer using web based remote desktop software. Accessing my computer this way would give him access to private information on my computer and possibly allow him to install malware.

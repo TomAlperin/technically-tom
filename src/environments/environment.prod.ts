@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  appUrl: 'https://technicallytom.com/'
+  appUrl: 'https://www.technicallytom.com/'
 };
