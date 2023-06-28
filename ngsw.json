@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1687941825657,
+  "timestamp": 1687943237375,
   "index": "https://www.technicallytom.com/index.html",
   "assetGroups": [
     {
@@ -22,7 +22,7 @@
         "https://www.technicallytom.com/polyfills.0ff62c64e7c07903.js",
         "https://www.technicallytom.com/runtime.64a16f346fb55025.js",
         "https://www.technicallytom.com/scripts.6bcc729d26dc5e5d.js",
-        "https://www.technicallytom.com/styles.c0f627a7e9306459.css"
+        "https://www.technicallytom.com/styles.1b28e67ba86d3a00.css"
       ],
       "patterns": []
     },
@@ -533,13 +533,13 @@
     "https://www.technicallytom.com/fa-v4compatibility.6209cf0172d95b0e.woff2": "8f80d0bbe995f7fe92320fdaec10cd5ccd710a51",
     "https://www.technicallytom.com/fa-v4compatibility.92dce52f885fd838.ttf": "a9d072aca9e0fadc2a7167671ce3d6b18d9cd2cc",
     "https://www.technicallytom.com/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://www.technicallytom.com/index.html": "ee35e9cb6e4c055718fab944115d9047a729f6f6",
+    "https://www.technicallytom.com/index.html": "e99ecde63402f1134d4629c8b5b880c6fa321d4e",
     "https://www.technicallytom.com/main.470b9cc29c96dac4.js": "a735da6a5b2bd05caff8c6792f391f3968fa363b",
     "https://www.technicallytom.com/manifest.webmanifest": "4324946f1274a56877d51d376ae031f434803182",
     "https://www.technicallytom.com/polyfills.0ff62c64e7c07903.js": "d7721c16fd5e99b1a7bb831354e6299e54710d5f",
     "https://www.technicallytom.com/runtime.64a16f346fb55025.js": "0ba1452bdca2bade41902f1b961daac8521f17d0",
     "https://www.technicallytom.com/scripts.6bcc729d26dc5e5d.js": "dcb4393d111b55e1fe7d0185dfdc3c19e8570f18",
-    "https://www.technicallytom.com/styles.c0f627a7e9306459.css": "50500882d585f702fffdb954a17b424bb116fc39"
+    "https://www.technicallytom.com/styles.1b28e67ba86d3a00.css": "f4587fe109efaeb34c8e8594e44e482a21c077ac"
   },
   "navigationUrls": [
     {
