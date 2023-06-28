@@ -15,7 +15,8 @@ const routes: Routes = [{
 },
 { path: 'bicycles', loadChildren: () => import('./bicycles/bicycles.module').then(m => m.BicyclesModule) },
 { path: 'multi-rotors', loadChildren: () => import('./multi-rotors/multi-rotors.module').then(m => m.MultiRotorsModule) },
-{ path: 'technicalities', loadChildren: () => import('./technicalities/technicalities.module').then(m => m.TechnicalitiesModule) }
+{ path: 'technicalities', loadChildren: () => import('./technicalities/technicalities.module').then(m => m.TechnicalitiesModule) },
+{ path: '**', redirectTo: '/', pathMatch: 'full' }
 ];
 
 @NgModule({
