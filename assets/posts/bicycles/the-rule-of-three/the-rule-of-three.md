@@ -4,7 +4,7 @@ During the many years I spent working at bicycle shops, I came up with this phil
 
 With “The Rule of Three,” an issue is anything that is not absolutely perfect in adjustment or choice of components. This idea that three minor imperfections were all that could be allowed came about from my experiences extending gear ranges beyond what was recommended and from working on tandems. In “The Rule of Three,” both tandems and these extended gear ranges count as issues. I do not mean this as a recommendation to not ride tandems or equip your bicycle with a super low gear. Remember, you are allowed up to three issues.
 
-### 4 Strikes and You’re Out
+### 4 Strikes and You’re Out ###
 Modern front derailleurs are designed to work with specific gear changes. Their side plates are not a flat surface. Curves in the surface are placed strategically to lift the chain onto the higher gears. If you run a granny gear a little smaller than stock, this does not work as well. You have one strike.
 Modern chainrings have ramps and pins on all but the smallest ring. If you change a middle or large ring, and the replacements are not properly ramped and pinned, you can count that as a strike. Most likely you have two strikes at this point, since your reason for changing the rings was to mess with #1.
 Is your chain line just slightly off? Strike
@@ -24,7 +24,7 @@ Front derailleur cage ledges to lift chain up to larger rings.
 
 Whenever I was handed new “special” projects working as a bicycle mechanic, I could pretty accurately predict when the bike was not going to work with the supplied components. I’d find myself often thinking of what to say to convince both the shop owner and the customer to change their expectations a bit to get things working properly, working on compromises, and in some cases engineering fixes for issues that I knew would be just one too many strikes. I would find myself doing this before the issues I knew were going to happen had happened.
 
-### “My Friend’s Bike Works Like This”
+### “My Friend’s Bike Works Like This” ###
 Rider A has been riding for years. He’s got an ultra low gear for the hills, with modifications not only to the front gears but also the cassette. A quick assessment of his bike would indicate he’s got about three strikes. Rider A , however, keeps his bike tuned up regularly, knows how to do minor derailleur adjustments out on a ride, and shifts perfectly. Rider B is a new rider. He is friends with rider A who has recommended a bike shop so he can get a bike just like his.
 
 <img class="float-end p-3 pe-0" width="50%" src="assets/posts/bicycles/the-rule-of-three/chainring-pins.jpg" alt="Chainring Pins">
@@ -39,7 +39,7 @@ Newer parts with modern designs usually shift better, but that’s only if you f
 
 Rider A’s components do not have as many of these refinements to improve shifting, however the components are heavier to make up for this. When he swapped out components that were not exactly what the manufacturer intended, there was less of an impact on performance. You can’t fix rider B’s bike like this because the heavier components are no longer for sale.
 
-### Balancing Act
+### Balancing Act ###
 Building the ultimate anything is always a balancing act. This is something that I think consumers have a tough time understanding. They go out to buy a computer, for example and buy the cheapest one with the fastest processor with no consideration for the other components. In the world of bikes, it’s often the weight of the bike that is the prime concern of the purchaser when they should be also considering how the bike handles as well as how well the shifting works.
 
 <img class="float-start p-3 ps-0" width="30%" src="assets/posts/bicycles/the-rule-of-three/tandem-gearing.jpg" alt="Tandem Gears">
@@ -56,15 +56,15 @@ Ramps act as virtual gear to help lift chain on to actual gear.
 
 If you want your bike to function as smooth as possible, you really want to identify everything that is wrong that you can do without. Don’t use parts for their looks or for the brand name on them if they do not work as well as the other brand available. Don’t make any changes that sacrifice performance for little or no benefit at all. Your bike will work with three minor issues, but it’s better to have the fewest possible. The more strikes the more often you need to pay attention to your adjustments and how worn components become. Those spare strikes will keep your bike functioning properly as your components wear and as cables stretch. The fewer strikes you start with, the easier it will be to keep your bike adjusted acceptably. Is it worth all the extra fuss just for a name printed on the side of a component? Not for me. If the name on the part were worthy of display on my bike, it would work better. Saving a few grams? Maybe if you are racing competitively and the performance loss isn’t too great.
 
-### Breaking the Rules
+### Breaking the Rules ###
 Applying this to rider B’s bike as a mechanic, you may find that they aren’t willing to compromise on much or maybe anything. As the mechanic, it’s not your fault that the frame manufacturer moved the derailleur hanger half a millimeter and it’s not their fault either since it’s still within the specification. This is where professional mechanics need to get creative either by finding a different component that satisfies the customer’s needs but works a little better or by “hacking a solution together.” If you find yourself on the customer end of these sorts of complications, you should try to have some understanding of what your mechanic is going through. Good bicycle mechanics are proud of the work they do. They want your bicycle to work as perfectly as possible.
 
-### Worst Shifting Technique, Ever
+### Worst Shifting Technique, Ever ###
 Good bicycle mechanics have absolutely the worst shifting technique possible, not while actually out riding their own bike, but definitely while they are working on your bike. You want to guarantee a bike works when it leaves the shop, shift so bad that your customers can’t outdo your sloppy shifting. Even if you know you are working on a bike that belongs to the most experienced rider, shifting with no technique whatsoever guarantees their shifting will work no matter what.
 
 If you are adjusting your own bike, don’t hold the levers in to complete a shift as you should when actually riding. Cross the chain to make sure that works even though you never intentionally do this while riding. This is one of the secrets to how some mechanics can adjust a bicycle so perfectly. It’s all about simulating the worst rider, ever.
 
-### Best Shifting Technique, Ever
+### Best Shifting Technique, Ever ###
 You can’t shift electrical shifting poorly. It shifts one way when properly adjusted no matter what the rider does. This is going to be amazing for tandems once all the issues with tandem use are ironed out. Even electronic shifting isn’t good enough to make a triple work all the time and I believe that is why we aren’t seeing triples with electronic shifting. Instead, manufacturers are moving towards offering lower gearing on the cassettes and “compact” chainrings so that triples will no longer be necessary to reach the same low gears.
 
 My first experience adjusting electronic shifters, I automatically switched into bad shifting technique mode and immediately realized that it didn’t matter how I shifted. Some people might argue that you don’t get the same feel with the electronic shifting as you do with actually moving the derailleurs with your own force or that it doesn’t make that much of a difference. They usually abandon this argument with a single ride using electronic shifting. The front derailleur, especially, shifts in ways not possible with mechanical shifters. The chain is eased down onto the small ring when in rear cogs that increase the possibility of throwing the chain to the inside. Then there’s never having to worry about trim points again, ever.
