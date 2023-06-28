@@ -1,7 +1,7 @@
 A new or recently overhauled bike can be a joy to ride. There’s the wind, the sound of the tires on the pavement, the quiet hum of the gears and not much else. Inevitably though, minor creeks and squeaks will develop. Some riders will choose to ignore the extra noise as most of these sounds really don’t indicate a serious issue with the bicycle. Here is why you should not give in to this way of thinking.
 
 
- ***The Mask***
+### The Mask ###
 A discussion I once had with a rider that had just snapped his chain and taken a hard fall due to the failure went something like this:
 
 **Me:**  Was there any indication that your chain was about to snap?\
@@ -20,7 +20,7 @@ That one clicking noise was the damaged link passing through the derailleur and 
 
 The volume of a sound unfortunately says nothing about the severity of the issue. Some of the more quiet noises can be indications of a pending critical failure. If your bicycle is generating a whole orchestra’s worth of odd clicks and pops, you are never going to be able to identify that one noise that really needs to be paid attention to. Besides this, how much did you spend on your bike? We don’t spend even the price of a “starter bike” for it to sound like a worn out dishwasher. A little extra care will not only make your rides a more peaceful zen like experience, it will provide extra safety and peace of mind.
 
-***Identifying the Cause***
+### Identifying the Cause ###
 <div class="float-end p-3 pe-0 w-50">
   <img class="w-100" src="assets/posts/bicycles/up-a-creek-without-a-pedal/seatpost-test.jpg" alt="Testing for noises in seat post clamp or saddle clamp" />
   <p>
@@ -59,12 +59,9 @@ Once all the identifiable issues have been fixed, it’s now time to consider th
   </p>
 </div>
 
-
-
-
 Some of the more exotic frame materials can amplify normal riding noises. You may find that you can hear sounds that are part of the normal operation. I have worked on bikes where the rider could hear the chain hitting the ramp pins on the chainring. This was part of the normal operation of the bicycle and only audible because of the frame material and the fact that the chainring was new. After putting several miles on the bike, the noise quieted down. Some titanium cassettes can cause additional noise when new but quiet down when broken in. Don’t feel bad about having your bike checked for a noise that turns out to be a normal operating sound. It’s better to be safe than sorry. Just understand that there will be some sounds, like the chain on the pulley wheels or additional gear noise as the chain crosses at a greater angle, that will always occur.
 
-Inspecting the Bike
+### Inspecting the Bike ###
 Regular bicycle inspections can identify problems before they cause a “situation” even if failure produces no annoying noises. Check the frame and other structural parts of your bike regularly for cracks or defects. I once discovered a frame failure due to cracking paint. Touch-up painting the affected area revealed that there was enough movement to cause the new paint to crack after just one ride.
 
 Know how to work on your bike even in you prefer not to. You should have proficient enough knowledge about the operation of your bike to be able to identify when something is wrong. At the bare minimum, a rider should know how to change a flat tire and how to perform minor derailleur adjustments in the event of slight cable stretching.

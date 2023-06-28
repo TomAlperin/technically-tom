@@ -49,10 +49,10 @@ Coming to a stop.
 Stopped okay, but somehow fell over anyway.
 Guess, what. Those three situations relate directly to the three things you need to remember.
 
-In Late
+### In Late ###
 I have seen this happen countless times. A new rider has trouble clipping in. They concentrate so hard on clipping in that they forget to keep pedaling the bicycle and fall over as a result. The most important things to be focused on when starting is that the bike is moving forward and that it’s not going to crash into anything. Stay seated until you clip in in case your foot slips off the pedal, but do not worry about being clipped in. Most riders have better luck clipping in just pedaling than when they focus too much on clipping in anyway. By the time you have the bike going fast enough to devote some extra time to clipping in, you will mostly likely already be clipped in, especially with mountain pedals. If you do need to focus more after the bike is rolling at a good speed, quick glances at your pedals only. No staring at your pedals and start pedaling again if the bike begins to slow down. Think of the pedal as a simple platform pedal until you clip in and you will avoid this mishap.
 
-Out Early
+### Out Early ###
 Unclip early whenever you have the chance. Don’t wait for the last second to disengage from your pedals. If you see a stop sign or signal, you can clip out in advance, using the pedal like a platform if necessary to pedal. The more you become accustomed to your pedal system, the less necessary this will seem, but it never hurts to be extra cautious.
 
 It is easier to clip out if the leg you are clipping out on is rotated towards the bottom of the pedal stroke. It is not important to be at the absolute bottom of the pedal stroke, but the top of the pedal stroke is a definite no, no. Attempting to clip out at the top of the pedal stroke is a common mistake made by new riders. This is a result of being accustomed to having the opposite leg down to support your weight to lift off the saddle before stepping down. When using clipless pedals, the rider should first clip out, then rotate  the other leg down to support weight.
@@ -68,7 +68,7 @@ It is easier to clip out if the leg you are clipping out on is rotated towards t
 
 Most pedal systems have something called “float.” The cleat will be able to move slightly from left to right. Moving your heel away from the bike is how most systems release. If you first move your foot inward and then “slam” you heel to the outer limit quickly, the pedal will seem to release with less tension than if you twisted slowly. If you need to be out of the pedals fast, this is how you should clip out. Don’t just twist out of the pedal, hammer your heel out of it.
 
-Kung Fu Stance
+### Kung Fu Stance ###
 When you step down, lean the bike over and step away from the bike. Martial arts class teach a stance with the legs held apart. This provides better balance than holding your feet together. You can use this “kung-fu stance” to provide a more stable platform while waiting at a stop. The handlebars should be pointed either straight ahead or dropped towards the foot that is on the ground. Never turn the bars towards the foot that is still clipped in.
 
 ### Practice, Practice, Practice ###
