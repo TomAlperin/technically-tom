@@ -31,7 +31,7 @@ For new riders, it’s not a bad idea to begin with mountain bike pedals, even i
 <div class="float-start p-3 ps-0 w-50">
   <img class="w-100" src="assets/posts/bicycles/clipped-in-guide-for-new-clipless-pedal-users/speedplay-pedal.jpg" alt="Speedplay Pedal" />
   <p>
-    <em>Speedily pedal. Larger platform but harder to walk in. Usually for more advanced riders.</em>
+    <em>Speedplay pedal. Larger platform but harder to walk in. Usually for more advanced riders.</em>
   </p>
 </div>
 
@@ -57,11 +57,13 @@ Unclip early whenever you have the chance. Don’t wait for the last second to d
 
 It is easier to clip out if the leg you are clipping out on is rotated towards the bottom of the pedal stroke. It is not important to be at the absolute bottom of the pedal stroke, but the top of the pedal stroke is a definite no, no. Attempting to clip out at the top of the pedal stroke is a common mistake made by new riders. This is a result of being accustomed to having the opposite leg down to support your weight to lift off the saddle before stepping down. When using clipless pedals, the rider should first clip out, then rotate  the other leg down to support weight.
 
-<div class="float-start p-3 ps-0 w-50">
-  <img class="w-100" src="assets/posts/bicycles/clipped-in-guide-for-new-clipless-pedal-users/speedplay-cleat.jpg" alt="Speedplay Road Cleat" />
-  <p>
-    <em>Speedily road cleat. No tension adjustment on cleats or pedals.</em>
-  </p>
+<div class="d-flex justify-content-center py-3">
+  <div>
+    <img class="mw-100" width="500px" src="assets/posts/bicycles/clipped-in-guide-for-new-clipless-pedal-users/speedplay-cleat.jpg" alt="Speedplay Road Cleat" />
+    <p>
+      <em>Speedplay road cleat. <br />No tension adjustment on cleats or pedals.</em>
+    </p>
+  </div>
 </div>
 
 Most pedal systems have something called “float.” The cleat will be able to move slightly from left to right. Moving your heel away from the bike is how most systems release. If you first move your foot inward and then “slam” you heel to the outer limit quickly, the pedal will seem to release with less tension than if you twisted slowly. If you need to be out of the pedals fast, this is how you should clip out. Don’t just twist out of the pedal, hammer your heel out of it.
@@ -71,11 +73,13 @@ When you step down, lean the bike over and step away from the bike. Martial arts
 
 ### Practice, Practice, Practice ###
 
-<div class="float-end p-3 pe-0 w-25">
-  <img class="w-100" src="assets/posts/bicycles/clipped-in-guide-for-new-clipless-pedal-users/speedplay-cleat-with-cover.jpg" alt="Speedplay Cleat With Protective Cover Installed" />
-  <p>
-    <em>Speedily cleat with protective cover installed. Makes walking a little easier. Protects cleat from debris that can make them harder to use.</em>
-  </p>
+<div class="d-flex justify-content-center py-3">
+  <div>
+    <img class="mw-100" width="500px" src="assets/posts/bicycles/clipped-in-guide-for-new-clipless-pedal-users/speedplay-cleat-with-cover.jpg" alt="Speedplay Cleat With Protective Cover Installed" />
+    <p>
+      <em>Speedplay cleat with protective cover installed. <br />Makes walking a little easier.<br /> Protects cleat from debris that can make them harder to use.</em>
+    </p>
+  </div>
 </div>
 
 Most good bike shops will let you practice with your new cleats for at least a little while on a stationary trainer. If this does not feel sufficient, many gyms use clipless pedals on their spin bikes. This is another benefit to starting with a mountain pedal. The spin bikes most likely use the same cleat as the mountain pedals. If you already belong to a gym, it may be possible to use a spin bike to practice during a time period when a spin class is not being offered. It should not take much time to become comfortable with the new pedal system.
