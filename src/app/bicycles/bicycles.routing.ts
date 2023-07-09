@@ -19,7 +19,7 @@ const bicyclesRoutes: Routes = [
         meta: [
           { name: 'description', content: 'Advice and stories about cycling' },
           { property: 'og:title', content: 'Advice and stories about cycling' },
-          { proprety: 'og:description', content: 'Advice and stories about cycling' },
+          { property: 'og:description', content: 'Advice and stories about cycling' },
           { property: 'og:image', content: environment.appUrl + 'assets/posts/bicycles/step-up-to-the-bar/bike-bars.jpg' },
           { property: 'og:image:width', content: '1200' },
           { property: 'og:image:height', content: '630' },

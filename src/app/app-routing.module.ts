@@ -14,7 +14,7 @@ const routes: Routes = [{
       meta: [
         { name: 'description', content: 'Guides and advice on technology' },
         { property: 'og:title', content: 'Guides and advice on technology' },
-        { proprety: 'og:description', content: 'Guides and advice on technology' },
+        { property: 'og:description', content: 'Guides and advice on technology' },
         { property: 'og:image', content: environment.appUrl + 'assets/img/article-default.png' },
         { property: 'og:image:width', content: '1200' },
         { property: 'og:image:height', content: '630' },

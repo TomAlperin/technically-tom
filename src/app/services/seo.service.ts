@@ -9,9 +9,15 @@ export class SeoService {
     this.title.setTitle(title + ' | Technically Tom');
   }
   updateMetaTag(metaTag: MetaDefinition) {
-    this.meta.updateTag(metaTag);
+    this.meta.updateTag(metaTag, `${metaTag.name ? 'name' : 'property'}='${metaTag.name || metaTag.property}'`);
   }
   updateMetaTags(metaTags: MetaDefinition[]) {
-    metaTags.forEach(m => this.meta.updateTag(m));
+    metaTags.forEach(m => {
+      if (m.name) {
+        this.meta.updateTag(m, `name='${m.name}'`)
+      } else if (m.property) {
+        this.meta.updateTag(m, `property='${m.property}'`)
+      }
+    });
   }
 }
