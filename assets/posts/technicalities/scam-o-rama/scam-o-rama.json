@@ -1,5 +1,35 @@
 {
   "title": "Scam-O-Rama",
-  "thumb": "assets/posts/scam-o-rama/croc.png",
-  "date": "2015-09-22T18:46"
+  "thumb": "assets/posts/technicalities/scam-o-rama/croc.jpg",
+  "date": "2015-09-22T18:46",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Avoiding phone and internet phishing attaxks"
+    },
+    {
+      "property": "og:title",
+      "content": "Avoiding phone and internet phishing attaxks"
+    },
+    {
+      "proprety": "og:description",
+      "content": "Avoiding phone and internet phishing attaxks"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/posts/technicalities/scam-o-rama/croc.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
 }

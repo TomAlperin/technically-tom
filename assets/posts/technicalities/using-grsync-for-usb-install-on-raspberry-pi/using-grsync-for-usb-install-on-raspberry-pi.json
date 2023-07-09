@@ -1,5 +1,35 @@
 {
   "title": "Using GRSYNC For USB Install on Raspberry Pi",
-  "thumb": "/assets/posts/using-grsync-for-usb-install-on-raspberry-pi/raspberry-pi-1.jpg",
-  "date": "2015-07-29T00:33"
+  "thumb": "assets/posts/technicalities/using-grsync-for-usb-install-on-raspberry-pi/raspberry-pi-1.jpg",
+  "date": "2015-07-29T00:33",
+  "meta": [
+    {
+      "name": "description",
+      "content": "One method for backing up a Raspberry Pi install"
+    },
+    {
+      "property": "og:title",
+      "content": "One method for backing up a Raspberry Pi install"
+    },
+    {
+      "proprety": "og:description",
+      "content": "One method for backing up a Raspberry Pi install"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/posts/technicalities/using-grsync-for-usb-install-on-raspberry-pi/raspberry-pi-1.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
 }

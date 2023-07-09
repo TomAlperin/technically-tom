@@ -1,5 +1,35 @@
 {
   "title": "The Rule of Three",
   "thumb": "assets/posts/bicycles/the-rule-of-three/tandem-goodness.jpg",
-  "date": "2015-09-03T19:56"
+  "date": "2015-09-03T19:56",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Avoiding bad component decisions that add up to a poorly operating bicycle"
+    },
+    {
+      "property": "og:title",
+      "content": "Avoiding bad component decisions that add up to a poorly operating bicycle"
+    },
+    {
+      "proprety": "og:description",
+      "content": "Avoiding bad component decisions that add up to a poorly operating bicycle"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/posts/bicycles/the-rule-of-three/tandem-goodness.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
 }
