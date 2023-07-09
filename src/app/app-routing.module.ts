@@ -11,7 +11,7 @@ const routes: Routes = [{
     view: 'home',
     meta: {
       title: `Home`,
-      metaTags: [
+      meta: [
         { name: 'description', content: 'Guides and advice on technology' },
         { property: 'og:title', content: 'Guides and advice on technology' },
         { proprety: 'og:description', content: 'Guides and advice on technology' },
