@@ -1,7 +1,7 @@
 Bike riders tend to think of bike fit as either improving performance or improving comfort. They seem to think that performance and comfort are at odds with each other, that you are going to have to choose one or the other or at least a compromise between the two, however I do not believe this to be entirely true. To find out why, read on.
 
 
-ATTENTION: All torque specifications should be followed when adjusting a bicycle. Buy a torque wrench and use it!
+**ATTENTION:** All torque specifications should be followed when adjusting a bicycle. Buy a torque wrench and use it!
 
 In my many years of bike fitting experience, I have seen rider’s back angles brought down by shortening a stem, complaints of too low a riding position solved without necessarily needing to raise handlebars, and riders comfortably using the drop section of their bars after swearing they would never be able to do so without feeling pain.
 

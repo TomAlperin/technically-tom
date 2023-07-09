@@ -30,6 +30,7 @@ import { ArticleCardWideComponent } from './article-card-wide/article-card-wide.
     ArticleCardComponent,
     ArticleCardWideComponent,
     ArticlesComponent,
+    RouterModule,
     NavComponent,
     MarkdownModule
   ]

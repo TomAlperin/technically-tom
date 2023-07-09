@@ -1,11 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
-body {
+html, body {
   font: 400 15px/1.4 'Lato', Helvetica, Arial, sans-serif;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 main {
-  top: 48px;
+  top: 45px;
   left: 0px;
-  height: calc(100% - 48px);
+  height: calc(100% - 45px);
   width: 100%;
   overflow: hidden;
   overflow-y: auto;
