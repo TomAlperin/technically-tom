@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1688888480952,
+  "timestamp": 1689360185840,
   "index": "https://www.technicallytom.com/index.html",
   "assetGroups": [
     {
@@ -13,16 +13,16 @@
       "urls": [
         "https://www.technicallytom.com/250.1a33c54e6cb46255.js",
         "https://www.technicallytom.com/261.7e15a7c606069a4e.js",
-        "https://www.technicallytom.com/874.f45683fe1dbd12f2.js",
+        "https://www.technicallytom.com/345.f4f5176f57655491.js",
         "https://www.technicallytom.com/common.f9359c4c5a98dc43.js",
         "https://www.technicallytom.com/favicon.ico",
         "https://www.technicallytom.com/index.html",
-        "https://www.technicallytom.com/main.96d350ea4d0e46ac.js",
+        "https://www.technicallytom.com/main.57d59749d84b3f9c.js",
         "https://www.technicallytom.com/manifest.webmanifest",
         "https://www.technicallytom.com/polyfills.0ff62c64e7c07903.js",
-        "https://www.technicallytom.com/runtime.dab4e21e2ab930d6.js",
+        "https://www.technicallytom.com/runtime.b890712998d6a60a.js",
         "https://www.technicallytom.com/scripts.6bcc729d26dc5e5d.js",
-        "https://www.technicallytom.com/styles.35f8eec2d004cb55.css"
+        "https://www.technicallytom.com/styles.135a27424743a3d6.css"
       ],
       "patterns": []
     },
@@ -239,6 +239,13 @@
         "https://www.technicallytom.com/assets/posts/bicycles/welcome-new-riders-please-ride-safe/squirrel.jpg",
         "https://www.technicallytom.com/assets/posts/bicycles/welcome-new-riders-please-ride-safe/welcome-new-riders-please-ride-safe.json",
         "https://www.technicallytom.com/assets/posts/bicycles/welcome-new-riders-please-ride-safe/welcome-new-riders-please-ride-safe.md",
+        "https://www.technicallytom.com/assets/posts/multi-rotors.json",
+        "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/betaflight-modes.jpg",
+        "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/mark5.jpg",
+        "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/sticky-error-condition.jpg",
+        "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/sticky-normal-operation.jpg",
+        "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/why-using-a-logical-switch-for-prearm-is-unsafe.json",
+        "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/why-using-a-logical-switch-for-prearm-is-unsafe.md",
         "https://www.technicallytom.com/assets/posts/technicalities.json",
         "https://www.technicallytom.com/assets/posts/technicalities/scam-o-rama/croc.jpg",
         "https://www.technicallytom.com/assets/posts/technicalities/scam-o-rama/scam-o-rama.json",
@@ -294,7 +301,7 @@
   "hashTable": {
     "https://www.technicallytom.com/250.1a33c54e6cb46255.js": "89e14e0c557f5257b6e1b94590a00b039941d4f9",
     "https://www.technicallytom.com/261.7e15a7c606069a4e.js": "d24b7d751cb8a1f53f3d2452bdc93c7cc52c5273",
-    "https://www.technicallytom.com/874.f45683fe1dbd12f2.js": "f3f2da0f3adfb0fa708b9b3d34903b840be268d6",
+    "https://www.technicallytom.com/345.f4f5176f57655491.js": "5be3e8db3e003287a1613ab4cefc466f31428c66",
     "https://www.technicallytom.com/Khand-Bold.00d3c452c14694dc.ttf": "84f467ec8a260fbb90c85c4d5495f1d1260feba9",
     "https://www.technicallytom.com/Khand-Light.03cc987f531ac0d0.ttf": "81695a6d555791b318177249ca5f5866b57d8427",
     "https://www.technicallytom.com/Khand-Medium.430a55c7746cfa67.ttf": "4adee32dcbbb4f29d3f92deff9cdc265f3d398a7",
@@ -500,6 +507,13 @@
     "https://www.technicallytom.com/assets/posts/bicycles/welcome-new-riders-please-ride-safe/squirrel.jpg": "2473c6bbd642806ef587e7e2c875c5e697a411ff",
     "https://www.technicallytom.com/assets/posts/bicycles/welcome-new-riders-please-ride-safe/welcome-new-riders-please-ride-safe.json": "9d6c10efbf14abc75f1390f6b9d83ad2d6875dea",
     "https://www.technicallytom.com/assets/posts/bicycles/welcome-new-riders-please-ride-safe/welcome-new-riders-please-ride-safe.md": "429fbec3e452d412a54931cf4e5508b6fe853314",
+    "https://www.technicallytom.com/assets/posts/multi-rotors.json": "7785227ab45d23d3a32be0a981c5dafe4caefc51",
+    "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/betaflight-modes.jpg": "75a7511239a1e7faf04914db8877c9ee535ed052",
+    "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/mark5.jpg": "6adec83deca3a2875abaec67ed58c21899717ab8",
+    "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/sticky-error-condition.jpg": "5fe74ce73376ae082074fc3581c0e9a8d6bbe657",
+    "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/sticky-normal-operation.jpg": "d047c67da95e12c7e18b81611f74c631d203ca0b",
+    "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/why-using-a-logical-switch-for-prearm-is-unsafe.json": "5538f0b0ef4170bdcfeadb7560a34e02e09112f7",
+    "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/why-using-a-logical-switch-for-prearm-is-unsafe.md": "cdc1d98b5745f6eb1866aebe0d6fa307eb65ce35",
     "https://www.technicallytom.com/assets/posts/technicalities.json": "edf7f9c1c3d313164a95ce4e03f4f5c4ec1855f0",
     "https://www.technicallytom.com/assets/posts/technicalities/scam-o-rama/croc.jpg": "c9254f9b18cb7220d939ff0fcac6414df69860ef",
     "https://www.technicallytom.com/assets/posts/technicalities/scam-o-rama/scam-o-rama.json": "3f6c18e12f22ad91e6885815f01093f41f263f4a",
@@ -532,14 +546,14 @@
     "https://www.technicallytom.com/fa-solid-900.3eae9857c06e9372.woff2": "6b99aa650bd12a36caa14e0127435d8f4cd3ba73",
     "https://www.technicallytom.com/fa-v4compatibility.6209cf0172d95b0e.woff2": "8f80d0bbe995f7fe92320fdaec10cd5ccd710a51",
     "https://www.technicallytom.com/fa-v4compatibility.92dce52f885fd838.ttf": "a9d072aca9e0fadc2a7167671ce3d6b18d9cd2cc",
-    "https://www.technicallytom.com/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://www.technicallytom.com/index.html": "eb308247b8b9a979fa2ee62149df05637685c78a",
-    "https://www.technicallytom.com/main.96d350ea4d0e46ac.js": "ed7a5ffa28fe53a43a9f8033f459625772f42150",
+    "https://www.technicallytom.com/favicon.ico": "251a75f5e39bd6ea5792cd68cfb33cfa086d24f9",
+    "https://www.technicallytom.com/index.html": "2a6dfaafbbd5bfe3d61231749822f390488938b6",
+    "https://www.technicallytom.com/main.57d59749d84b3f9c.js": "57bf9ce4eac4774794b1eb15d4e93bb6f3c2ded5",
     "https://www.technicallytom.com/manifest.webmanifest": "4324946f1274a56877d51d376ae031f434803182",
     "https://www.technicallytom.com/polyfills.0ff62c64e7c07903.js": "d7721c16fd5e99b1a7bb831354e6299e54710d5f",
-    "https://www.technicallytom.com/runtime.dab4e21e2ab930d6.js": "dca3ba108ce2cf9b3f556db7d6dce9159c1951b9",
+    "https://www.technicallytom.com/runtime.b890712998d6a60a.js": "13e33f98afaeaa5c7e112332942207bebee7c0dc",
     "https://www.technicallytom.com/scripts.6bcc729d26dc5e5d.js": "dcb4393d111b55e1fe7d0185dfdc3c19e8570f18",
-    "https://www.technicallytom.com/styles.35f8eec2d004cb55.css": "9d69c893edcfa6cef447351aba73e760fe6f4df7"
+    "https://www.technicallytom.com/styles.135a27424743a3d6.css": "4874b64b72aac243670cdc7287296c7016c61702"
   },
   "navigationUrls": [
     {
