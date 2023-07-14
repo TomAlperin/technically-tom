@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1689360185840,
+  "timestamp": 1689360869851,
   "index": "https://www.technicallytom.com/index.html",
   "assetGroups": [
     {
@@ -507,13 +507,13 @@
     "https://www.technicallytom.com/assets/posts/bicycles/welcome-new-riders-please-ride-safe/squirrel.jpg": "2473c6bbd642806ef587e7e2c875c5e697a411ff",
     "https://www.technicallytom.com/assets/posts/bicycles/welcome-new-riders-please-ride-safe/welcome-new-riders-please-ride-safe.json": "9d6c10efbf14abc75f1390f6b9d83ad2d6875dea",
     "https://www.technicallytom.com/assets/posts/bicycles/welcome-new-riders-please-ride-safe/welcome-new-riders-please-ride-safe.md": "429fbec3e452d412a54931cf4e5508b6fe853314",
-    "https://www.technicallytom.com/assets/posts/multi-rotors.json": "7785227ab45d23d3a32be0a981c5dafe4caefc51",
+    "https://www.technicallytom.com/assets/posts/multi-rotors.json": "08dfa3f061f4569cf4d0dd5eed045e0771ccb8a3",
     "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/betaflight-modes.jpg": "75a7511239a1e7faf04914db8877c9ee535ed052",
     "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/mark5.jpg": "6adec83deca3a2875abaec67ed58c21899717ab8",
     "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/sticky-error-condition.jpg": "5fe74ce73376ae082074fc3581c0e9a8d6bbe657",
     "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/sticky-normal-operation.jpg": "d047c67da95e12c7e18b81611f74c631d203ca0b",
     "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/why-using-a-logical-switch-for-prearm-is-unsafe.json": "5538f0b0ef4170bdcfeadb7560a34e02e09112f7",
-    "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/why-using-a-logical-switch-for-prearm-is-unsafe.md": "cdc1d98b5745f6eb1866aebe0d6fa307eb65ce35",
+    "https://www.technicallytom.com/assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/why-using-a-logical-switch-for-prearm-is-unsafe.md": "761a9a21ad5c88aba46a13cf342eb9eb96c51a92",
     "https://www.technicallytom.com/assets/posts/technicalities.json": "edf7f9c1c3d313164a95ce4e03f4f5c4ec1855f0",
     "https://www.technicallytom.com/assets/posts/technicalities/scam-o-rama/croc.jpg": "c9254f9b18cb7220d939ff0fcac6414df69860ef",
     "https://www.technicallytom.com/assets/posts/technicalities/scam-o-rama/scam-o-rama.json": "3f6c18e12f22ad91e6885815f01093f41f263f4a",
