@@ -20,10 +20,10 @@ export class NavComponent {
         name: 'Bicycles',
         url: 'bicycles'
       },
-      // {
-      //   name: 'Multi Rotors',
-      //   url: 'multi-rotors'
-      // },
+      {
+        name: 'DroneZone',
+        url: 'multi-rotors'
+      },
       {
         name: 'Technicalities',
         url: 'technicalities'
