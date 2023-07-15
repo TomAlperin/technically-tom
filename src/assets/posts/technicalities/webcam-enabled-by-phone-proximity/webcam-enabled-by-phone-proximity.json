@@ -1,0 +1,35 @@
+{
+  "title": "Webcam Enabled/Disabled By Phone Proximity",
+  "thumb": "assets/posts/technicalities/webcam-enabled-by-phone-proximity/raspberry-pi.jpg",
+  "date": "2015-04-06T20:21",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Webcam Enabled/Disabled By Phone Proximity"
+    },
+    {
+      "property": "og:title",
+      "content": "Webcam Enabled/Disabled By Phone Proximity"
+    },
+    {
+      "property": "og:description",
+      "content": "Webcam Enabled/Disabled By Phone Proximity"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/posts/technicalities/webcam-enabled-by-phone-proximity/raspberry-pi.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
+}

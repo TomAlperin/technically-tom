@@ -1,5 +1,4 @@
 import { Routes, RouterModule } from '@angular/router';
-import { MultiRotorsComponent } from './multi-rotors.component';
 import { ArticlesComponent } from '@shared/articles/articles.component';
 import { environment } from '@environment';
 import { jsonResolver } from '../resolvers/json.resolver';
@@ -11,10 +10,10 @@ const multiRotorsRoutes: Routes = [
     path: '',
     component: ArticlesComponent,
     data: {
-      title: 'DroneZone',
+      title: 'Drone Zone Lair',
       view: 'multi-rotors',
       meta: {
-        title: `DroneZone`,
+        title: `Drone Zone Lair`,
         meta: [
           { name: 'description', content: 'Advice and stories about multi-rotors' },
           { property: 'og:title', content: 'Advice and stories about multi-rotors' },
@@ -24,7 +23,7 @@ const multiRotorsRoutes: Routes = [
           { property: 'og:image:height', content: '630' },
           { name: 'twitter:card', content: 'website' },
         ]
-      }  
+      }
     },
     resolve: {
       articles: jsonResolver

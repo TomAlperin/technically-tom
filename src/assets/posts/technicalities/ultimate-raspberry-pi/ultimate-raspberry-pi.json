@@ -1,6 +1,6 @@
 {
   "title": "Ultimate Raspberry Pi",
-  "thumb": "assets/posts/technicalities/ultimate-raspberry-pi/raspberry-pi.jpg",
+  "thumb": "assets/posts/technicalities/ultimate-raspberry-pi/rpi-complete.jpg",
   "date": "2015-08-27T21:09",
   "meta": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "property": "og:image",
-      "content": "https://www.technicallytom.com/assets/posts/technicalities/ultimate-raspberry-pi/raspberry-pi.jpg"
+      "content": "https://www.technicallytom.com/assets/posts/technicalities/ultimate-raspberry-pi/rpi-complete.jpg"
     },
     {
       "property": "og:image:width",

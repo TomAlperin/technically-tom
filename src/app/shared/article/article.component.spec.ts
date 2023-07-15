@@ -2,6 +2,7 @@ import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { ArticleComponent } from './article.component';
 import { RouterTestingModule } from '@angular/router/testing';
+import { SharedModule } from '@shared/shared.module';
 
 describe('ArticleComponent', () => {
   let component: ArticleComponent;
@@ -10,7 +11,8 @@ describe('ArticleComponent', () => {
   beforeEach(() => {
     TestBed.configureTestingModule({
       imports: [
-        RouterTestingModule
+        RouterTestingModule,
+        SharedModule
       ],
       declarations: [ArticleComponent]
     });
