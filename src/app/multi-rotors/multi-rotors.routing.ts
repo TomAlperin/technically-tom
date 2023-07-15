@@ -1,5 +1,4 @@
 import { Routes, RouterModule } from '@angular/router';
-import { MultiRotorsComponent } from './multi-rotors.component';
 import { ArticlesComponent } from '@shared/articles/articles.component';
 import { environment } from '@environment';
 import { jsonResolver } from '../resolvers/json.resolver';
