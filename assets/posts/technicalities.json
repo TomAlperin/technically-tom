@@ -23,7 +23,7 @@
   },
   {
     "title": "Ultimate Raspberry Pi",
-    "thumb": "assets/posts/technicalities/ultimate-raspberry-pi/raspberry-pi.jpg",
+    "thumb": "assets/posts/technicalities/ultimate-raspberry-pi/rpi-complete.jpg",
     "date": "2015-08-27T21:09",
     "excerpt": "There are many projects using sensors and motors that can be done with the Raspberry Pi, but if you just want a nice media center",
     "url": "/technicalities/ultimate-raspberry-pi",
@@ -35,5 +35,21 @@
     "date": "2015-07-29T00:33",
     "excerpt": "Moving an install from SD card to USB device using the dd utility can have some major annoyances. It can’t be done on a running",
     "url": "/technicalities/using-grsync-for-usb-install-on-raspberry-pi"
+  },
+  {
+    "title": "Webcam Enabled/Disabled By Phone Proximity",
+    "thumb": "assets/posts/technicalities/webcam-enabled-by-phone-proximity/raspberry-pi.jpg",
+    "date": "2015-04-06T20:21",
+    "excerpt": "If you have followed my guide on setting up Motion webcam software, or possibly another guide, you will likely have encountered a minor annoyance",
+    "url": "/technicalities/webcam-enabled-by-phone-proximity"
+  },
+  {
+    "title": "My First JavaScript",
+    "thumb": "assets/posts/technicalities/my-first-javascript/blackjack.jpg",
+    "date": "2015-02-20T05:49",
+    "excerpt": "This last month, I took a course in JavaScript to get myself back into programming and web design. The class included projects to work on",
+    "url": "/technicalities/my-first-javascript",
+    "featured": true
   }
+
 ]

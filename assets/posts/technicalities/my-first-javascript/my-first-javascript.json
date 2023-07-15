@@ -1,0 +1,35 @@
+{
+  "title": "My First JavaScript",
+  "thumb": "assets/posts/technicalities/my-first-javascript/blackjack.jpg",
+  "date": "2015-02-20T05:49",
+  "meta": [
+    {
+      "name": "description",
+      "content": "The game of 21 created using vanilla JavaScript"
+    },
+    {
+      "property": "og:title",
+      "content": "My First JavaScript"
+    },
+    {
+      "property": "og:description",
+      "content": "The game of 21 created using vanilla JavaScript"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/posts/technicalities/my-first-javascript/blackjack.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
+}
