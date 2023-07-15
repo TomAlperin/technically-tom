@@ -12,10 +12,12 @@ export const homeResolver: ResolveFn<any> = (
 ) => {
   const bicycles = api.getJSON(`assets/posts${state.url}/bicycles`);
   const technicalities = api.getJSON(`assets/posts${state.url}/technicalities`);
+  const multirotors = api.getJSON(`assets/posts${state.url}/multi-rotors`);
 
   return forkJoin({
     bicycles,
-    technicalities
+    technicalities,
+    multirotors
   })
     .pipe(map((res: any) => {
       const articles = res.bicycles
@@ -31,7 +33,16 @@ export const homeResolver: ResolveFn<any> = (
               bicycle.typeLink = '/technicalities';
               return bicycle;
             })
+        )
+        .concat(
+          res.multirotors
+            .map((drones: Article) => {
+              drones.type = 'DroneZone';
+              drones.typeLink = '/multi-rotors';
+              return drones;
+            })
         );
+;
       return articles.sort((a: Article, b: Article) => {
         switch (true) {
           case a.date < b.date:

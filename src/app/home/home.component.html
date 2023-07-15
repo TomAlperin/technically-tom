@@ -1,5 +1,5 @@
 <main>
-  <div class="container-fluid py-md-4 bd-layout">
+  <div class="container-fluid py-4 bd-layout">
     <div class="row d-flex justify-content-center">
       <div class="col-md-10 col-lg-8 col-xl-6">
         <h1 class="blog-info">Technology, Guides, Advice, and More</h1>
@@ -28,7 +28,9 @@
           />
         </div>
         <div class="carousel-caption">
-          <h2>{{ feature.title }}</h2>
+          <a [routerLink]="feature.url"
+            ><h2>{{ feature.title }}</h2></a
+          >
         </div>
       </ng-template>
     </ngb-carousel>
@@ -47,3 +49,4 @@
     </div>
   </div>
 </main>
+<app-footer></app-footer>

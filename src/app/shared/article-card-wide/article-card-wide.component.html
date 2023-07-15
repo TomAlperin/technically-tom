@@ -8,7 +8,7 @@
       />
     </div>
     <div class="col-sm-8 col-md-9 position-relative">
-      <a [routerLink]="article.typeLink"
+      <a [routerLink]="article.typeLink" (click)="$event.stopPropagation()"
         ><span class="post-type">{{ article.type }}</span></a
       >
       <h2 class="slide-title">

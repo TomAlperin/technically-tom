@@ -1,5 +1,35 @@
 {
   "title": "Clipped In – Guide For New Clipless Pedal Users",
-  "thumb": "assets/img/article-default.png",
-  "date": "2015-08-31T22:11"
+  "thumb": "assets/posts/bicycles/clipped-in-guide-for-new-clipless-pedal-users/speedplay-cleat-with-cover.jpg",
+  "date": "2015-08-31T22:11",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Advice for new clipless pedall users"
+    },
+    {
+      "property": "og:title",
+      "content": "Advice for new clipless pedall users"
+    },
+    {
+      "property": "og:description",
+      "content": "Advice for new clipless pedall users"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/posts/bicycles/clipped-in-guide-for-new-clipless-pedal-users/speedplay-cleat-with-cover.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
 }

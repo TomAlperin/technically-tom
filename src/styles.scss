@@ -1,11 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
-body {
+html, body {
   font: 400 15px/1.4 'Lato', Helvetica, Arial, sans-serif;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 main {
-  top: 48px;
+  min-height: calc(100% - 80px);
+}
+.page-container {
+  top: 45px;
   left: 0px;
-  height: calc(100% - 48px);
+  height: calc(100% - 45px);
   width: 100%;
   overflow: hidden;
   overflow-y: auto;
@@ -121,6 +129,35 @@ main {
     animation: shake 3s linear infinite;
     will-change: transform;
   }
+}
+
+.w-300px {
+  width: 300px;
+  max-width: 100%;
+}
+.w-400px {
+  width: 400px;
+  max-width: 100%;
+}
+.w-500px {
+  width: 500px;
+  max-width: 100%;
+}
+.w-600px {
+  width: 600px;
+  max-width: 100%;
+}
+.w-700px {
+  width: 700px;
+  max-width: 100%;
+}
+.w-800px {
+  width: 800px;
+  max-width: 100%;
+}
+.w-900px {
+  width: 900px;
+  max-width: 100%;
 }
 
 /* Safari 4.0 - 8.0 */

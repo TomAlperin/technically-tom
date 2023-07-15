@@ -8,6 +8,7 @@ import { MarkdownModule } from 'ngx-markdown';
 import { ArticlesComponent } from './articles/articles.component';
 import { ConfirmComponent } from './confirm/confirm.component';
 import { ArticleCardWideComponent } from './article-card-wide/article-card-wide.component';
+import { FooterComponent } from './footer/footer.component';
 
 
 
@@ -18,7 +19,8 @@ import { ArticleCardWideComponent } from './article-card-wide/article-card-wide.
     ArticleCardWideComponent,
     ArticleComponent,
     ArticlesComponent,
-    ConfirmComponent
+    ConfirmComponent,
+    FooterComponent
   ],
   imports: [
     CommonModule,
@@ -30,6 +32,8 @@ import { ArticleCardWideComponent } from './article-card-wide/article-card-wide.
     ArticleCardComponent,
     ArticleCardWideComponent,
     ArticlesComponent,
+    FooterComponent,
+    RouterModule,
     NavComponent,
     MarkdownModule
   ]

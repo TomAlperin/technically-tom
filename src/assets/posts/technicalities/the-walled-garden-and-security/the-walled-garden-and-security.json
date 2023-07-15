@@ -1,5 +1,35 @@
 {
   "title": "The Walled Garden and Security",
-  "thumb": "/assets/img/article-default.png",
-  "date": "2015-09-21T20:02"
+  "thumb": "assets/posts/technicalities/the-walled-garden-and-security/sick-apple.png",
+  "date": "2015-09-21T20:02",
+  "meta": [
+    {
+      "name": "description",
+      "content": "The benefits of one option for reducing risk of computer viruses"
+    },
+    {
+      "property": "og:title",
+      "content": "The benefits of one option for reducing risk of computer viruses"
+    },
+    {
+      "property": "og:description",
+      "content": "The benefits of one option for reducing risk of computer viruses"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/posts/technicalities/the-walled-garden-and-security/sick-apple.png"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
 }

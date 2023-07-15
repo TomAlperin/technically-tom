@@ -1,5 +1,35 @@
 {
   "title": "Up a Creek Without a Pedal?",
-  "thumb": "assets/img/article-default.png",
-  "date": "2015-09-01T22:57"
+  "thumb": "assets/posts/bicycles/up-a-creek-without-a-pedal/wheel-test.jpg",
+  "date": "2015-09-01T22:57",
+  "meta": [
+    {
+      "name": "description",
+      "content": "How to identify difficult to find bike noises and why this is important"
+    },
+    {
+      "property": "og:title",
+      "content": "How to identify difficult to find bike noises and why this is important"
+    },
+    {
+      "property": "og:description",
+      "content": "How to identify difficult to find bike noises and why this is important"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/posts/bicycles/up-a-creek-without-a-pedal/wheel-test.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
 }

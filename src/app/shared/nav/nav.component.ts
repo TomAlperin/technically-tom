@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ElementRef, HostListener, ViewChild } from '@angular/core';
 
 @Component({
   selector: 'app-nav',
@@ -20,15 +20,23 @@ export class NavComponent {
         name: 'Bicycles',
         url: 'bicycles'
       },
-      // {
-      //   name: 'Multi Rotors',
-      //   url: 'multi-rotors'
-      // },
+      {
+        name: 'DroneZone',
+        url: 'multi-rotors'
+      },
       {
         name: 'Technicalities',
         url: 'technicalities'
       }
     ];
+  @ViewChild('mainNav') private mainNav?: ElementRef<HTMLDivElement>;
+
+  @HostListener('window:resize', ['$event'])
+  closeNav(event?: Event) {
+    if (!event || window.innerWidth > 991) {
+      this.mainNav?.nativeElement.classList.remove("show");
+    }
+  }
 
   trackByFn = (index: number) => index;
 }

@@ -1,5 +1,35 @@
 {
   "title": "Shut The Front Door",
-  "thumb": "assets/img/article-default.png",
-  "date": "2015-09-07T12:41"
+  "thumb": "assets/posts/technicalities/shut-the-front-door/chamberlain-garage-opener.jpg",
+  "date": "2015-09-07T12:41",
+  "meta": [
+    {
+      "name": "description",
+      "content": "A hellish tale of a possessed garage door opener"
+    },
+    {
+      "property": "og:title",
+      "content": "A hellish tale of a possessed garage door opener"
+    },
+    {
+      "property": "og:description",
+      "content": "A hellish tale of a possessed garage door opener"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/posts/technicalities/shut-the-front-door/chamberlain-garage-opener.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
 }

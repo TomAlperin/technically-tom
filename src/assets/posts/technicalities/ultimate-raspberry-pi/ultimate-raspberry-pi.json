@@ -1,5 +1,35 @@
 {
   "title": "Ultimate Raspberry Pi",
-  "thumb": "assets/img/article-default.png",
-  "date": "2015-08-27T21:09"
+  "thumb": "assets/posts/technicalities/ultimate-raspberry-pi/raspberry-pi.jpg",
+  "date": "2015-08-27T21:09",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Everything you need for a complete Raspberry Pi desktop computer"
+    },
+    {
+      "property": "og:title",
+      "content": "Everything you need for a complete Raspberry Pi desktop computer"
+    },
+    {
+      "property": "og:description",
+      "content": "Everything you need for a complete Raspberry Pi desktop computer"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/posts/technicalities/ultimate-raspberry-pi/raspberry-pi.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
 }

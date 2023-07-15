@@ -1,5 +1,36 @@
 {
   "title": "Pulling Your Chain – Do Bicycle Chains Really Stretch?",
-  "thumb": "assets/img/article-default.png",
-  "date": "2015-09-02T18:06"
+  "thumb": "assets/posts/bicycles/pulling-your-chain-do-bicycle-chains-really-stretch/chain-tool-2.jpg",
+  "date": "2015-09-02T18:06",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Causes for bicycle chain wear and the stretching effect"
+    },
+    {
+      "property": "og:title",
+      "content": "Causes for bicycle chain wear and the stretching effect"
+    },
+    {
+      "property": "og:description",
+      "content": "Causes for bicycle chain wear and the stretching effect"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/posts/bicycles/pulling-your-chain-do-bicycle-chains-really-stretch/chain-tool-2.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
+
 }

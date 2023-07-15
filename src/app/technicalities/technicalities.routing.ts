@@ -11,6 +11,18 @@ const technicalitiesRoutes: Routes = [
     data: {
       title: 'Technicalities',
       view: 'technicalities',
+      meta: {
+        title: `Bikology`,
+        meta: [
+          { name: 'description', content: 'Advice and stories about computers and technology' },
+          { property: 'og:title', content: 'Advice and stories about computers and technology' },
+          { property: 'og:description', content: 'Advice and stories about computers and technology' },
+          { property: 'og:image', content: 'https://www.technicallytom.com/assets/posts/bicycles/step-up-to-the-bar/bike-bars.jpg' },
+          { property: 'og:image:width', content: '1200' },
+          { property: 'og:image:height', content: '630' },
+          { name: 'twitter:card', content: 'website' },
+        ]
+      }
     },
     resolve: {
       articles: jsonResolver
