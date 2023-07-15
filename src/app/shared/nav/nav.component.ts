@@ -21,7 +21,7 @@ export class NavComponent {
         url: 'bicycles'
       },
       {
-        name: 'DroneZone',
+        name: 'Drone Zone Lair',
         url: 'multi-rotors'
       },
       {
