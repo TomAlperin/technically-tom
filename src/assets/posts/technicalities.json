@@ -48,7 +48,8 @@
     "thumb": "assets/posts/technicalities/my-first-javascript/blackjack.jpg",
     "date": "2015-02-20T05:49",
     "excerpt": "This last month, I took a course in JavaScript to get myself back into programming and web design. The class included projects to work on",
-    "url": "/technicalities/my-first-javascript"
+    "url": "/technicalities/my-first-javascript",
+    "featured": true
   }
 
 ]
