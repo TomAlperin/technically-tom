@@ -33,7 +33,7 @@ export class AppComponent {
       this.seo.updateTitle(metaData.title);
       this.seo.updateMetaTags(metaData.meta || []);
       this.seo.updateMetaTag({
-        propert: 'og;url',
+        property: 'og;url',
         content: window.location.href
       });
     });

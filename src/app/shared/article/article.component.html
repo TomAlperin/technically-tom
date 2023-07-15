@@ -1,12 +1,14 @@
-<main class="bicycles">
-  <div class="container-fluid container-xl py-4 bd-layout">
-    <h1>{{ meta?.title }}</h1>
-    <p>{{ meta?.date | date : "MMM d yyyy | hh:mm a" }}</p>
-    <div class="row">
-      <div class="col-12">
-        <markdown *ngIf="article" emoji [data]="article"></markdown>
+<div class="page-container">
+  <main class="bicycles">
+    <div class="container-fluid container-xl py-4 bd-layout">
+      <h1>{{ meta?.title }}</h1>
+      <p>{{ meta?.date | date : "MMM d yyyy | hh:mm a" }}</p>
+      <div class="row">
+        <div class="col-12">
+          <markdown *ngIf="article" emoji [data]="article"></markdown>
+        </div>
       </div>
     </div>
-  </div>
-</main>
-<app-footer></app-footer>
+  </main>
+  <app-footer></app-footer>
+</div>
