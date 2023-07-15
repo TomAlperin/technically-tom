@@ -4,6 +4,7 @@
     "thumb": "assets/posts/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe/mark5.jpg",
     "date": "2023-07-14T11:24",
     "excerpt": "For my first article about multi rotors I would like to address an issue with a recommended pre-arm set up that I think is unsafe",
-    "url": "/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe"
+    "url": "/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe",
+    "featured": true
   }
 ]

@@ -37,12 +37,12 @@ export const homeResolver: ResolveFn<any> = (
         .concat(
           res.multirotors
             .map((drones: Article) => {
-              drones.type = 'DroneZone';
+              drones.type = 'Drone Zone Lair';
               drones.typeLink = '/multi-rotors';
               return drones;
             })
         );
-;
+      ;
       return articles.sort((a: Article, b: Article) => {
         switch (true) {
           case a.date < b.date:
