@@ -1,0 +1,36 @@
+{
+  "title": "Diamond Lake Fire",
+  "image": "/assets/photography/diamond-lake-fire.jpg",
+  "prevUrl": "/photography/butterfly",
+  "nextUrl": "/photography/flowers",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Diamond Lake Fire"
+    },
+    {
+      "property": "og:title",
+      "content": "Diamond Lake Fire"
+    },
+    {
+      "property": "og:description",
+      "content": "Diamond Lake Fire"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/photography/diamond-lake-fire.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
+}

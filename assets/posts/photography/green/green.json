@@ -1,0 +1,36 @@
+{
+  "title": "Green",
+  "image": "/assets/photography/green.jpg",
+  "prevUrl": "/photography/get-well-soon",
+  "nextUrl": "/photography/helicopter",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Green"
+    },
+    {
+      "property": "og:title",
+      "content": "Green"
+    },
+    {
+      "property": "og:description",
+      "content": "Green"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/photography/green.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
+}

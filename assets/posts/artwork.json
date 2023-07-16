@@ -1,0 +1,28 @@
+[
+  {
+    "src": "assets/artwork/lion.jpg",
+    "alt": "Lion",
+    "url": "/artwork/lion"
+  },
+  {
+    "src": "assets/artwork/chess.jpg",
+    "alt": "Chess",
+    "url": "/artwork/chess"
+  },
+  {
+    "src": "assets/artwork/cougar.jpg",
+    "alt": "cougar",
+    "url": "/artwork/cougar"
+  },
+  {
+    "src": "assets/artwork/campy.jpg",
+    "alt": "Campy Derailleur",
+    "url": "/artwork/campy"
+  },
+  {},
+  {
+    "src": "assets/artwork/clarinet.jpg",
+    "alt": "Clarinet",
+    "url": "/artwork/clarinet"
+  }
+]

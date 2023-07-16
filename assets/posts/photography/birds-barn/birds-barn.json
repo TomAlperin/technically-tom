@@ -1,0 +1,36 @@
+{
+  "title": "Birds Above Barn",
+  "image": "/assets/photography/birds-barn.jpg",
+  "prevUrl": "/photography/biking-ahead",
+  "nextUrl": "/photography/bug",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Birds Above Barn"
+    },
+    {
+      "property": "og:title",
+      "content": "Birds Above Barn"
+    },
+    {
+      "property": "og:description",
+      "content": "Birds Above Barn"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/photography/birds-barn.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
+}

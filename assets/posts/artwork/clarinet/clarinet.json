@@ -1,0 +1,36 @@
+{
+  "title": "Clarinet",
+  "image": "/assets/artwork/clarinet.jpg",
+  "prevUrl": "/artwork/campy",
+  "nextUrl": "/artwork/lion",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Clarinet in air brush"
+    },
+    {
+      "property": "og:title",
+      "content": "Clarinet"
+    },
+    {
+      "property": "og:description",
+      "content": "Clarinet in air brush"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/artwork/clarinet.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
+}

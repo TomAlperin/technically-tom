@@ -1,0 +1,36 @@
+{
+  "title": "Mountain Flowers",
+  "image": "/assets/photography/mountain-flowers.jpg",
+  "prevUrl": "/photography/helicopter",
+  "nextUrl": "/photography/tandem-wheel-view",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Mountain Flowers"
+    },
+    {
+      "property": "og:title",
+      "content": "Mountain Flowers"
+    },
+    {
+      "property": "og:description",
+      "content": "Mountain Flowers"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/photography/mountain-flowers.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
+}

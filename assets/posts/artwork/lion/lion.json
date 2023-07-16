@@ -1,0 +1,36 @@
+{
+  "title": "Lion",
+  "image": "/assets/artwork/lion.jpg",
+  "prevUrl": "/artwork/clarinet",
+  "nextUrl": "/artwork/chess",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Lion and girl in air brush"
+    },
+    {
+      "property": "og:title",
+      "content": "Lion"
+    },
+    {
+      "property": "og:description",
+      "content": "Lion and girl in air brush"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/artwork/lion.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
+}
