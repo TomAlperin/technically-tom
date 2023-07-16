@@ -1,0 +1,36 @@
+{
+  "title": "Campy Derailleur",
+  "image": "/assets/artwork/campy.jpg",
+  "prevUrl": "/artwork/cougar",
+  "nextUrl": "/artwork/clarinet",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Campy derailleur in marker and color pencil"
+    },
+    {
+      "property": "og:title",
+      "content": "Campy Derailleur"
+    },
+    {
+      "property": "og:description",
+      "content": "Campy derailleur in marker and color pencil"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/artwork/campy.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
+}

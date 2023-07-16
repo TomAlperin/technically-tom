@@ -1,0 +1,9 @@
+<div class="grid-row">
+  <div *ngFor="let column of columns" class="grid-column">
+    <ng-container *ngFor="let row of rows">
+      <a *ngIf="images[row + column]" [routerLink]="images[row + column].url">
+        <img [src]="images[row + column].src" />
+      </a>
+    </ng-container>
+  </div>
+</div>

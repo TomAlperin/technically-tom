@@ -27,6 +27,14 @@ export class NavComponent {
       {
         name: 'Technicalities',
         url: 'technicalities'
+      },
+      {
+        name: 'Artwork',
+        url: 'artwork'
+      },
+      {
+        name: 'Photography',
+        url: 'photography'
       }
     ];
   @ViewChild('mainNav') private mainNav?: ElementRef<HTMLDivElement>;

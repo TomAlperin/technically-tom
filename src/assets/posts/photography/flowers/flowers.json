@@ -1,0 +1,36 @@
+{
+  "title": "Flowers",
+  "image": "/assets/photography/flowers.jpg",
+  "prevUrl": "/photography/diamond-lake-fire",
+  "nextUrl": "/photography/flower-2",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Flower"
+    },
+    {
+      "property": "og:title",
+      "content": "Flower"
+    },
+    {
+      "property": "og:description",
+      "content": "Flower"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/photography/flowers.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Bee",
+  "image": "/assets/photography/bee-2.jpg",
+  "prevUrl": "/photography/beach-panorama",
+  "nextUrl": "/photography/bikes",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Bee on flower"
+    },
+    {
+      "property": "og:title",
+      "content": "Bee"
+    },
+    {
+      "property": "og:description",
+      "content": "Bee on flower"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/photography/bee-2.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
+}

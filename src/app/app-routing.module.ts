@@ -29,6 +29,8 @@ const routes: Routes = [{
 { path: 'bicycles', loadChildren: () => import('./bicycles/bicycles.module').then(m => m.BicyclesModule) },
 { path: 'multi-rotors', loadChildren: () => import('./multi-rotors/multi-rotors.module').then(m => m.MultiRotorsModule) },
 { path: 'technicalities', loadChildren: () => import('./technicalities/technicalities.module').then(m => m.TechnicalitiesModule) },
+{ path: 'artwork', loadChildren: () => import('./artwork/artwork.module').then(m => m.ArtworkModule) },
+{ path: 'photography', loadChildren: () => import('./photography/photography.module').then(m => m.PhotographyModule) },
 { path: '**', redirectTo: '/', pathMatch: 'full' }
 ];
 

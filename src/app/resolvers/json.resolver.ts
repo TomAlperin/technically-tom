@@ -1,7 +1,6 @@
 import { ActivatedRouteSnapshot, ResolveFn, RouterStateSnapshot } from '@angular/router';
 import { inject } from '@angular/core';
 import { ApiService } from '@services/api.service';
-import { forkJoin, of } from 'rxjs';
 
 export const jsonResolver: ResolveFn<any> = (
   route: ActivatedRouteSnapshot,

@@ -9,6 +9,10 @@ import { ArticlesComponent } from './articles/articles.component';
 import { ConfirmComponent } from './confirm/confirm.component';
 import { ArticleCardWideComponent } from './article-card-wide/article-card-wide.component';
 import { FooterComponent } from './footer/footer.component';
+import { ImageGridComponent } from './image-grid/image-grid.component';
+import { ImageFadeDirective } from '../directives/image-fade.directive';
+import { ArtPieceComponent } from './art-piece/art-piece.component';
+import { ArtworkComponent } from './artwork/artwork.component';
 
 
 
@@ -20,7 +24,11 @@ import { FooterComponent } from './footer/footer.component';
     ArticleComponent,
     ArticlesComponent,
     ConfirmComponent,
-    FooterComponent
+    FooterComponent,
+    ImageGridComponent,
+    ImageFadeDirective,
+    ArtworkComponent,
+    ArtPieceComponent
   ],
   imports: [
     CommonModule,
@@ -35,7 +43,11 @@ import { FooterComponent } from './footer/footer.component';
     FooterComponent,
     RouterModule,
     NavComponent,
-    MarkdownModule
+    MarkdownModule,
+    ImageGridComponent,
+    ImageFadeDirective,
+    ArtworkComponent,
+    ArtPieceComponent
   ]
 })
 export class SharedModule { }

@@ -1,0 +1,38 @@
+<div class="page-container bg-dark">
+  <main>
+    <div class="container-fluid py-4 bd-layout">
+      <h1 class="d-flex justify-content-center">
+        {{ title }}
+      </h1>
+      <div class="d-flex justify-content-center">
+        <img
+          *ngIf="image"
+          appFadeImg
+          [src]="image"
+          class="w-700px mh-100"
+          [alt]="title"
+        />
+      </div>
+    </div>
+    <div class="previous">
+      <button [routerLink]="prevUrl" type="button" class="btn btn-dark">
+        <i class="fa-solid fa-angles-left"></i>
+      </button>
+    </div>
+    <div class="next">
+      <button [routerLink]="nextUrl" type="button" class="btn btn-dark">
+        <i class="fa-solid fa-angles-right"></i>
+      </button>
+    </div>
+    <div class="back">
+      <button
+        [routerLink]="'/' + back"
+        type="button"
+        class="btn btn-lg btn-dark"
+      >
+        Back
+      </button>
+    </div>
+  </main>
+  <app-footer class="d-block w-100"></app-footer>
+</div>

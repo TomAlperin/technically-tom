@@ -1,0 +1,36 @@
+{
+  "title": "Sharon and Flowers",
+  "image": "/assets/photography/sharon-flowers.jpg",
+  "prevUrl": "/photography/tandem-wheel-view",
+  "nextUrl": "/photography/yosemite-panorama",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Sharon and Flowers"
+    },
+    {
+      "property": "og:title",
+      "content": "Sharon and Flowers"
+    },
+    {
+      "property": "og:description",
+      "content": "Sharon and Flowers"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/photography/sharon-flowers.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
+}

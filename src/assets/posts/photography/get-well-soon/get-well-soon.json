@@ -1,0 +1,36 @@
+{
+  "title": "Get Well Soon",
+  "image": "/assets/photography/get-well-soon.jpg",
+  "prevUrl": "/photography/forrest",
+  "nextUrl": "/photography/green",
+  "meta": [
+    {
+      "name": "description",
+      "content": "Get Well Soon"
+    },
+    {
+      "property": "og:title",
+      "content": "Get Well Soon"
+    },
+    {
+      "property": "og:description",
+      "content": "Get Well Soon"
+    },
+    {
+      "property": "og:image",
+      "content": "https://www.technicallytom.com/assets/photography/get-well-soon.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": "twitter:card",
+      "content": "website"
+    }
+  ]
+}
