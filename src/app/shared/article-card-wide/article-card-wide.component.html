@@ -11,10 +11,10 @@
         ><span class="post-type">{{ article.type }}</span></a
       >
       <h2 class="slide-title">
+        {{ article.title }}
         <ng-container *ngIf="article.featured">
           &nbsp;<i class="fa-regular fa-star float-end text-warning shake"></i>
         </ng-container>
-        {{ article.title }}
       </h2>
       <span class="date">{{
         article.date | date : "MMM d yyyy | hh:mm a"
