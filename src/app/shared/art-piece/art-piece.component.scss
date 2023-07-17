@@ -3,6 +3,7 @@ h1 {
   margin: 20px 0;
   color: #fff;
   opacity: .5;
+  font-size: 24px;
 }
 .previous, .next {
   position: fixed;
@@ -29,10 +30,20 @@ h1 {
 }
 .back {
   position: fixed;
-  top: 75px;
+  top: 46px;
   right: 40px;
   background: none;
   border: none;
   outline: none;
   opacity: .5;
+}
+.image-container {
+  position: fixed;
+  top: 80px;
+  bottom: 80px;
+  left: 0;
+  width: 100%;
+  img {
+    object-fit: contain;
+  }
 }

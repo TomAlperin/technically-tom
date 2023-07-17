@@ -1,15 +1,15 @@
 <div class="page-container bg-dark">
   <main>
-    <div class="container-fluid py-4 bd-layout">
-      <h1 class="d-flex justify-content-center">
+    <div class="container-fluid py-1 bd-layout">
+      <h1 class="d-flex m-0 justify-content-center">
         {{ title }}
       </h1>
-      <div class="d-flex justify-content-center">
+      <div class="d-flex image-container justify-content-center">
         <img
           *ngIf="image"
           appFadeImg
           [src]="image"
-          class="w-700px mh-100"
+          class="w-100 mh-100"
           [alt]="title"
         />
       </div>
@@ -28,7 +28,7 @@
       <button
         [routerLink]="'/' + back"
         type="button"
-        class="btn btn-lg btn-dark"
+        class="btn btn-dark"
       >
         Back
       </button>
