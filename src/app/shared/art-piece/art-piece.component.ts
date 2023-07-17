@@ -16,6 +16,7 @@ export class ArtPieceComponent {
   fadeImg = true;
   slideShowSub?: Subscription;
   doSlideShow: boolean = false;
+  doFullScreen: boolean = false;
   destroyed$ = new Subject();
 
   constructor(
@@ -28,7 +29,7 @@ export class ArtPieceComponent {
       this.prevUrl = this.route.snapshot.data['meta'].prevUrl;
       this.nextUrl = this.route.snapshot.data['meta'].nextUrl;
       this.back = this.route.snapshot.data['back'];
-      
+
       this.fadeImg = false;
       setTimeout(() => {
         this.image = this.route.snapshot.data['meta'].image;
@@ -37,17 +38,27 @@ export class ArtPieceComponent {
     })
   }
 
-  slideShow(doSlideShow: boolean) {
-    this.doSlideShow = doSlideShow;
-
-    if (this.doSlideShow) {
-      this.slideShowSub = interval(6000)
-      .pipe(takeUntil(this.destroyed$))
-      .subscribe(() => {
-        this.router.navigate([this.nextUrl]);
-      });
-    } else {
-      this.slideShowSub?.unsubscribe();
+  slideShow(doSlideShow: boolean | null) {
+    switch (doSlideShow) {
+      case true:
+        this.doSlideShow = true;
+        this.slideShowSub = interval(6000)
+          .pipe(takeUntil(this.destroyed$))
+          .subscribe(() => {
+            this.router.navigate([this.nextUrl]);
+          });
+        break;
+      case false:
+        this.doFullScreen = true;
+        break;
+      case null:
+        this.doFullScreen = false;
+        if (this.slideShowSub) {
+          this.doSlideShow = false;
+          this.slideShowSub?.unsubscribe();
+          this.slideShowSub = undefined;
+        }
+        break;
     }
   }
 

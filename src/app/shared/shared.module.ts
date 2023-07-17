@@ -14,6 +14,7 @@ import { ImageFadeDirective } from '../directives/image-fade.directive';
 import { ArtPieceComponent } from './art-piece/art-piece.component';
 import { ArtworkComponent } from './artwork/artwork.component';
 import { TooltipModule } from 'ngx-bootstrap/tooltip';
+import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
 
 @NgModule({
   declarations: [
@@ -32,6 +33,7 @@ import { TooltipModule } from 'ngx-bootstrap/tooltip';
   imports: [
     CommonModule,
     RouterModule,
+    BsDropdownModule.forRoot(),
     TooltipModule.forRoot(),
     MarkdownModule.forRoot()
   ],

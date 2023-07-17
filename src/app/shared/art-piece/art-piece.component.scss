@@ -1,9 +1,11 @@
 h1 {
   text-align: center;
   margin: 20px 0;
-  color: #fff;
-  opacity: .5;
+  color: #888;
   font-size: 24px;
+  .btn {
+    color: #888;
+  }
 }
 .previous, .next {
   position: fixed;
@@ -32,7 +34,6 @@ h1 {
   background: none;
   border: none;
   outline: none;
-  opacity: .5;
 }
 .image-container {
   position: fixed;
@@ -45,13 +46,18 @@ h1 {
   }
 }
 .page-container {
-  &.slideshow {
+  &.full-screen {
     z-index: 3000;
-    .image-container {
-      
+    .image-container {    
       top:0;
       bottom: 0;
       background: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
     }
   }
+}
+.dropdown-toggle::after {
+  content: none;
+}
+a {
+  cursor: pointer;
 }

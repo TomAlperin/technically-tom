@@ -1,15 +1,10 @@
-<div class="page-container bg-dark" [ngClass]="{ slideshow: doSlideShow }">
+<div
+  class="page-container bg-dark"
+  [ngClass]="{ 'full-screen': doSlideShow || doFullScreen }"
+>
   <main>
     <div class="container-fluid py-1 bd-layout">
       <h1 class="d-flex m-0 justify-content-between">
-        <button
-          (click)="slideShow(true)"
-          type="button"
-          class="btn btn-dark header-btn px-0"
-        >
-          Show
-        </button>
-        {{ title }}
         <button
           [routerLink]="'/' + back"
           type="button"
@@ -17,11 +12,39 @@
         >
           Back
         </button>
+
+        {{ title }}
+        <div class="btn-group" dropdown placement="bottom right">
+          <button
+            id="button-basic"
+            dropdownToggle
+            type="button"
+            class="btn btn-lg btn-dark header-btn px-0 dropdown-toggle"
+            aria-controls="dropdown-basic"
+          >
+            <i class="fas fa-cog"></i>
+          </button>
+          <ul
+            *dropdownMenu
+            class="dropdown-menu dropdown-menu-right"
+            role="menu"
+            aria-labelledby="button-basic"
+          >
+            <li role="menuitem">
+              <a (click)="slideShow(false)" class="dropdown-item"
+                >Full Screen</a
+              >
+            </li>
+            <li role="menuitem">
+              <a (click)="slideShow(true)" class="dropdown-item">Slide Show</a>
+            </li>
+          </ul>
+        </div>
       </h1>
       <div class="d-flex image-container justify-content-center">
         <img
           *ngIf="image"
-          (click)="slideShow(false)"
+          (click)="slideShow(null)"
           [appFadeImg]="fadeImg"
           [src]="image"
           class="w-100 mh-100"
@@ -29,7 +52,7 @@
         />
       </div>
     </div>
-    <ng-container *ngIf="!doSlideShow">
+    <ng-container *ngIf="!doSlideShow && !doFullScreen">
       <div class="previous">
         <button [routerLink]="prevUrl" type="button" class="btn btn-dark">
           <i class="fa-solid fa-angles-left"></i>
