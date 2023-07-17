@@ -350,6 +350,9 @@ MIT
 ngx-bootstrap/positioning
 MIT
 
+ngx-bootstrap/tooltip
+MIT
+
 ngx-bootstrap/utils
 MIT
 
