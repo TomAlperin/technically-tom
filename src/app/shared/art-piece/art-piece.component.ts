@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
-import { Subject } from 'rxjs';
+import { Subject, Subscription, interval, takeUntil } from 'rxjs';
 
 @Component({
   selector: 'app-art-piece',
@@ -13,6 +13,9 @@ export class ArtPieceComponent {
   prevUrl: string = '';
   nextUrl: string = '';
   back: string = '';
+  fadeImg = true;
+  slideShowSub?: Subscription;
+  doSlideShow: boolean = false;
   destroyed$ = new Subject();
 
   constructor(
@@ -26,9 +29,26 @@ export class ArtPieceComponent {
       this.nextUrl = this.route.snapshot.data['meta'].nextUrl;
       this.back = this.route.snapshot.data['back'];
 
-      this.image = '';
-      setTimeout(() => this.image = this.route.snapshot.data['meta'].image, 300);
+      this.fadeImg = false;
+      setTimeout(() => {
+        this.image = this.route.snapshot.data['meta'].image;
+        this.fadeImg = true;
+      }, 500);
     })
+  }
+
+  slideShow(doSlideShow: boolean) {
+    this.doSlideShow = doSlideShow;
+
+    if (this.doSlideShow) {
+      this.slideShowSub = interval(6000)
+      .pipe(takeUntil(this.destroyed$))
+      .subscribe(() => {
+        this.router.navigate([this.nextUrl]);
+      });
+    } else {
+      this.slideShowSub?.unsubscribe();
+    }
   }
 
   ngOnDestroy() {

@@ -1,38 +1,46 @@
-<div class="page-container bg-dark">
+<div class="page-container bg-dark" [ngClass]="{ slideshow: doSlideShow }">
   <main>
     <div class="container-fluid py-1 bd-layout">
-      <h1 class="d-flex m-0 justify-content-center">
+      <h1 class="d-flex m-0 justify-content-between">
+        <button
+          (click)="slideShow(true)"
+          type="button"
+          class="btn btn-lg btn-dark header-btn px-0"
+        >
+          <i class="fa-regular fa-image"></i>&nbsp;Show
+        </button>
         {{ title }}
+        <button
+          [routerLink]="'/' + back"
+          type="button"
+          class="btn btn-dark header-btn px-0"
+        >
+          Back
+        </button>
       </h1>
       <div class="d-flex image-container justify-content-center">
         <img
           *ngIf="image"
-          appFadeImg
+          (click)="slideShow(false)"
+          [appFadeImg]="fadeImg"
           [src]="image"
           class="w-100 mh-100"
           [alt]="title"
         />
       </div>
     </div>
-    <div class="previous">
-      <button [routerLink]="prevUrl" type="button" class="btn btn-dark">
-        <i class="fa-solid fa-angles-left"></i>
-      </button>
-    </div>
-    <div class="next">
-      <button [routerLink]="nextUrl" type="button" class="btn btn-dark">
-        <i class="fa-solid fa-angles-right"></i>
-      </button>
-    </div>
-    <div class="back">
-      <button
-        [routerLink]="'/' + back"
-        type="button"
-        class="btn btn-dark"
-      >
-        Back
-      </button>
-    </div>
+    <ng-container *ngIf="!doSlideShow">
+      <div class="previous">
+        <button [routerLink]="prevUrl" type="button" class="btn btn-dark">
+          <i class="fa-solid fa-angles-left"></i>
+        </button>
+      </div>
+      <div class="next">
+        <button [routerLink]="nextUrl" type="button" class="btn btn-dark">
+          <i class="fa-solid fa-angles-right"></i>
+        </button>
+      </div>
+    </ng-container>
   </main>
   <app-footer class="d-block w-100"></app-footer>
 </div>

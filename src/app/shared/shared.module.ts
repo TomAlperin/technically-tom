@@ -13,8 +13,7 @@ import { ImageGridComponent } from './image-grid/image-grid.component';
 import { ImageFadeDirective } from '../directives/image-fade.directive';
 import { ArtPieceComponent } from './art-piece/art-piece.component';
 import { ArtworkComponent } from './artwork/artwork.component';
-
-
+import { TooltipModule } from 'ngx-bootstrap/tooltip';
 
 @NgModule({
   declarations: [
@@ -33,6 +32,7 @@ import { ArtworkComponent } from './artwork/artwork.component';
   imports: [
     CommonModule,
     RouterModule,
+    TooltipModule.forRoot(),
     MarkdownModule.forRoot()
   ],
   exports: [

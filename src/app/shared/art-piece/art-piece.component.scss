@@ -28,10 +28,7 @@ h1 {
 .next {
   right: 40px;
 }
-.back {
-  position: fixed;
-  top: 46px;
-  right: 40px;
+.header-btn {
   background: none;
   border: none;
   outline: none;
@@ -40,10 +37,21 @@ h1 {
 .image-container {
   position: fixed;
   top: 80px;
-  bottom: 46.5px;
+  bottom: 55px;
   left: 0;
   width: 100%;
   img {
     object-fit: contain;
+  }
+}
+.page-container {
+  &.slideshow {
+    z-index: 3000;
+    .image-container {
+      
+      top:0;
+      bottom: 0;
+      background: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+    }
   }
 }
