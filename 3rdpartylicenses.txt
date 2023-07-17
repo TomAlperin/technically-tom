@@ -341,6 +341,9 @@ This software is provided by the copyright holders and contributors “as is” 
 ngx-bootstrap/component-loader
 MIT
 
+ngx-bootstrap/dropdown
+MIT
+
 ngx-bootstrap/focus-trap
 MIT
 
