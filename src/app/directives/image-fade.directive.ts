@@ -5,6 +5,7 @@ import { Directive, ElementRef, HostListener, Input, OnChanges, OnInit, SimpleCh
 })
 export class ImageFadeDirective implements OnChanges {
   @Input() appFadeImg!: boolean | '';
+  loaded = false;
 
   constructor(private el: ElementRef) {
     Object.assign(el.nativeElement.style, {
@@ -15,9 +16,7 @@ export class ImageFadeDirective implements OnChanges {
 
   ngOnChanges(changes: SimpleChanges) {
     if (changes['appFadeImg']) {
-      if (this.appFadeImg === true) {
-        this.el.nativeElement.style.opacity = '1';
-      } else {
+      if (this.appFadeImg === false) {
         this.el.nativeElement.style.opacity = '0';
       }
     }

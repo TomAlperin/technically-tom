@@ -28,7 +28,7 @@ export class ArtPieceComponent {
       this.prevUrl = this.route.snapshot.data['meta'].prevUrl;
       this.nextUrl = this.route.snapshot.data['meta'].nextUrl;
       this.back = this.route.snapshot.data['back'];
-
+      
       this.fadeImg = false;
       setTimeout(() => {
         this.image = this.route.snapshot.data['meta'].image;
