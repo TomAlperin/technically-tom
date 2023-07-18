@@ -6,5 +6,12 @@
     "excerpt": "For my first article about multi rotors I would like to address an issue with a recommended pre-arm set up that I think is unsafe",
     "url": "/multi-rotors/why-using-a-logical-switch-for-prearm-is-unsafe",
     "featured": true
+  },
+  {
+    "title": "Why Does My Drone Flip Out When Armed?",
+    "thumb": "assets/posts/multi-rotors/drone-flips-out-when-armed/flip.jpg",
+    "date": "2023-07-19T02:17",
+    "excerpt": "Below is a check list for things that should be checked if your multi rotor flips out or does not take off properly when arming",
+    "url": "/multi-rotors/drone-flips-out-when-armed"
   }
 ]
